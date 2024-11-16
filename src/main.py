@@ -1,9 +1,9 @@
 import os
 import json
-import nltk
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
+import nltk
 
 # Ensure nltk resources are available
 nltk.download('stopwords')
@@ -58,14 +58,27 @@ def sort_and_write_to_disk(index, filename):
     with open(filename, 'w') as f:
         json.dump(sorted_index, f, indent=2)
     print(f"Partial index saved to {filename}")
-    
-# Function to calculate the total size of all partial index files in KB
-def calculate_index_size():
-    total_size = 0
-    for filename in os.listdir():
-        if filename.startswith('partial_index_') and filename.endswith('.json'):
-            total_size += os.path.getsize(filename)
-    return total_size / 1024  # Convert bytes to KB
+
+# Save progress to a file, including unique tokens
+def save_progress(doc_id, batch_number, unique_tokens_set):
+    progress = {
+        "doc_id": doc_id,
+        "batch_number": batch_number,
+        "unique_tokens_count": len(unique_tokens_set),  # Save the count of unique tokens
+        "unique_tokens": list(unique_tokens_set)  # Convert set to list for JSON serialization
+    }
+    with open('progress.json', 'w') as f:
+        json.dump(progress, f)
+    print(f"Progress saved: {progress}")
+
+# Load progress from a file, including unique tokens
+def load_progress():
+    if os.path.exists('progress.json'):
+        with open('progress.json', 'r') as f:
+            progress = json.load(f)
+            progress["unique_tokens"] = set(progress["unique_tokens"])  # Convert list back to set
+            return progress
+    return {"doc_id": 0, "batch_number": 0, "unique_tokens": set()}
 
 # Function to write report data to a file
 def write_report(doc_count, unique_token_count, index_size_kb):
@@ -88,15 +101,23 @@ def main():
     dev_pages = load_data(dev_folder)
     all_pages = analyst_pages + dev_pages  # Combine both lists for batch processing
     
+    # Load progress if it exists
+    progress = load_progress()
+    last_doc_id = progress["doc_id"]
+    batch_number = progress["batch_number"]
+    unique_tokens_set = progress["unique_tokens"]
+    
+    # Initialize counters and data structures
     batch_size = 100  # Define batch size
     inverted_index = {}  # Initialize the in-memory index
-    unique_tokens_set = set()  # Track unique tokens across all batches
-    doc_id = 0  # Document counter to track doc IDs across batches
-    
-    while all_pages:
+    doc_id = last_doc_id  # Start from the last processed doc_id
+
+    # Resume processing from the next unprocessed batch
+    remaining_pages = all_pages[doc_id:]
+    while remaining_pages:
         # Get the next batch of documents
-        batch = all_pages[:batch_size]
-        all_pages = all_pages[batch_size:]  # Remove processed batch from list
+        batch = remaining_pages[:batch_size]
+        remaining_pages = remaining_pages[batch_size:]  # Remove processed batch from list
 
         # Process each document in the batch
         for page in batch:
@@ -108,9 +129,13 @@ def main():
                 print(f"Error: Content not found in document ID {doc_id}")
 
         # Write the current batch's index to disk
-        filename = f'partial_index_{doc_id // batch_size}.json'  # Use batch number for filename
+        filename = f'partial_index_{batch_number}.json'
         sort_and_write_to_disk(inverted_index, filename)
         inverted_index.clear()  # Clear the index from memory for the next batch
+
+        # Save progress after each batch
+        batch_number += 1
+        save_progress(doc_id, batch_number, unique_tokens_set)
 
     # Calculate report metrics
     doc_count = doc_id  # Total number of indexed documents
@@ -127,4 +152,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
