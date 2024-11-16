@@ -1,9 +1,9 @@
 import os
 import json
+import nltk
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
-import nltk
 
 # Ensure nltk resources are available
 nltk.download('stopwords')
@@ -58,8 +58,26 @@ def sort_and_write_to_disk(index, filename):
     with open(filename, 'w') as f:
         json.dump(sorted_index, f, indent=2)
     print(f"Partial index saved to {filename}")
+    
+# Function to calculate the total size of all partial index files in KB
+def calculate_index_size():
+    total_size = 0
+    for filename in os.listdir():
+        if filename.startswith('partial_index_') and filename.endswith('.json'):
+            total_size += os.path.getsize(filename)
+    return total_size / 1024  # Convert bytes to KB
 
-# Main function to build the index in batches
+# Function to write report data to a file
+def write_report(doc_count, unique_token_count, index_size_kb):
+    report = {
+        "Number of Indexed Documents": doc_count,
+        "Number of Unique Tokens": unique_token_count,
+        "Total Index Size (KB)": index_size_kb
+    }
+    with open("index_report.json", "w") as f:
+        json.dump(report, f, indent=2)
+    print("Report saved to index_report.json")
+
 def main():
     # Define paths for ANALYST and DEV folders
     analyst_folder = 'assets/ANALYST'
@@ -94,8 +112,18 @@ def main():
         sort_and_write_to_disk(inverted_index, filename)
         inverted_index.clear()  # Clear the index from memory for the next batch
 
+    # Calculate report metrics
+    doc_count = doc_id  # Total number of indexed documents
+    unique_token_count = len(unique_tokens_set)  # Total number of unique tokens
+    index_size_kb = calculate_index_size()  # Total size of index files in KB
+
+    # Write the report to a file
+    write_report(doc_count, unique_token_count, index_size_kb)
+
     print("Indexing complete.")
-    print(f"Total unique tokens: {len(unique_tokens_set)}")
+    print(f"Total indexed documents: {doc_count}")
+    print(f"Total unique tokens: {unique_token_count}")
+    print(f"Total index size: {index_size_kb:.2f} KB")
 
 if __name__ == "__main__":
     main()
