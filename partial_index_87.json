@@ -1,0 +1,13444 @@
+{
+  "doctyp": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8702,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8708,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8712,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8713,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8716,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8719,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8722,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8723,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8725,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8729,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8731,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8736,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8738,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8740,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8742,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8745,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8747,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8749,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8750,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8752,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8757,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8758,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8760,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8762,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8764,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8768,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8769,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8771,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8778,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8781,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8783,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8785,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8786,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8789,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8791,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8795,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8796,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8797,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8800,
+      "frequency": 1
+    }
+  ],
+  "html": [
+    {
+      "doc_id": 8701,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8702,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8708,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8712,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8713,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8716,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8719,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8722,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8723,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8725,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8729,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8731,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8736,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8738,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8740,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8742,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8745,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8747,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8749,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8750,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8752,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8757,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8758,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8760,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8762,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8764,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8768,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8769,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8771,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8778,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8781,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8783,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8785,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8786,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8789,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8791,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8795,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8796,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8797,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8800,
+      "frequency": 3
+    }
+  ],
+  "public": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8702,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8708,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8712,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8713,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8716,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8719,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8722,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8723,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8725,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8729,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8731,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8736,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8738,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8740,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8742,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8745,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8747,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8749,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8750,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8752,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8757,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8758,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8760,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8762,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8764,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8768,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8769,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8771,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8778,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8781,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8783,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8785,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8786,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8789,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8791,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8795,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8796,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8797,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8800,
+      "frequency": 1
+    }
+  ],
+  "head": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8702,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8708,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8712,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8713,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8716,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8719,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8722,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8723,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8725,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8729,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8731,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8736,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8738,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8740,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8742,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8745,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8747,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8749,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8750,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8752,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8757,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8758,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8760,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8762,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8764,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8768,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8769,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8771,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8778,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8781,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8783,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8785,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8786,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8789,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8791,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8795,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8796,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8797,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8800,
+      "frequency": 1
+    }
+  ],
+  "titl": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8702,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8708,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8712,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8713,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8716,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8719,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8722,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8723,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8725,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8729,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8731,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8736,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8738,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8740,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8742,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8745,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8747,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8749,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8750,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8752,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8757,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8758,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8760,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8762,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8764,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8768,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8769,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8771,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8778,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8781,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8783,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8785,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8786,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8789,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8791,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8795,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8796,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8797,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8800,
+      "frequency": 1
+    }
+  ],
+  "index": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8702,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8708,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8712,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8713,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8716,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8719,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8722,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8723,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8725,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8729,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8731,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8736,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8738,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8740,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8742,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8745,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8747,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8749,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8750,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8752,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8757,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8758,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8760,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8762,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8764,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8768,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8769,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8771,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8778,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8781,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8783,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8785,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8786,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8789,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8791,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8795,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8796,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8797,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8800,
+      "frequency": 2
+    }
+  ],
+  "bodi": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8702,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8708,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8712,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8713,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8716,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8719,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8722,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8723,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8725,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8729,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8731,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8736,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8738,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8740,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8742,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8745,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8747,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8749,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8750,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8752,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8757,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8758,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8760,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8762,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8764,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8768,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8769,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8771,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8778,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8781,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8783,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8785,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8786,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8789,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8791,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8795,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8796,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8797,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8800,
+      "frequency": 1
+    }
+  ],
+  "id": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 14
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "5164": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    }
+  ],
+  "abehm": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8707,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8715,
+      "frequency": 9
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8730,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8737,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8741,
+      "frequency": 9
+    },
+    {
+      "doc_id": 8743,
+      "frequency": 11
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8759,
+      "frequency": 25
+    },
+    {
+      "doc_id": 8765,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8766,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8773,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8792,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "start": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    }
+  ],
+  "header": [
+    {
+      "doc_id": 8701,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    }
+  ],
+  "link": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "stylesheet": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "tabl": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "100": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 2
+    }
+  ],
+  "tr": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "td": [
+    {
+      "doc_id": 8701,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    }
+  ],
+  "http": [
+    {
+      "doc_id": 8701,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8707,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8715,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8726,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8730,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8737,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8741,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8743,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8759,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8765,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8766,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8773,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8792,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 5
+    }
+  ],
+  "img": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    }
+  ],
+  "center": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "h1": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8702,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8708,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8712,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8713,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8716,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8719,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8722,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8723,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8725,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8729,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8731,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8736,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8738,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8740,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8742,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8745,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8747,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8749,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8750,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8752,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8757,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8758,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8760,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8762,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8764,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8768,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8769,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8771,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8778,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8781,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8783,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8785,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8786,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8789,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8791,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8795,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8796,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8797,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8800,
+      "frequency": 1
+    }
+  ],
+  "flamingo": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    }
+  ],
+  "packag": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8755,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "br": [
+    {
+      "doc_id": 8701,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 5
+    }
+  ],
+  "approxim": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "string": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 9
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 19
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 21
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "match": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "h3": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "depart": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "comput": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "scienc": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "uc": [
+    {
+      "doc_id": 8701,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    }
+  ],
+  "irvin": [
+    {
+      "doc_id": 8701,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    }
+  ],
+  "h2": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "contributor": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "ul": [
+    {
+      "doc_id": 8701,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8702,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8708,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8712,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8713,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8716,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8719,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8722,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8723,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8725,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8729,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8731,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8736,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8738,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8740,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8742,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8745,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8747,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8749,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8750,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8752,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8757,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8758,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8760,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8762,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8764,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8768,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8769,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8771,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8778,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8781,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8783,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8785,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8786,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8789,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8791,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8795,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8796,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8797,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8800,
+      "frequency": 1
+    }
+  ],
+  "li": [
+    {
+      "doc_id": 8701,
+      "frequency": 9
+    },
+    {
+      "doc_id": 8702,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8708,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8712,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8713,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 22
+    },
+    {
+      "doc_id": 8716,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 15
+    },
+    {
+      "doc_id": 8719,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8722,
+      "frequency": 15
+    },
+    {
+      "doc_id": 8723,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8725,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8729,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8731,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8736,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8738,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8740,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8742,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 20
+    },
+    {
+      "doc_id": 8745,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8747,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8749,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8750,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8752,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 34
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 33
+    },
+    {
+      "doc_id": 8757,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8758,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8760,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8762,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8764,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8768,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8769,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8771,
+      "frequency": 34
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8778,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8781,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8783,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 9
+    },
+    {
+      "doc_id": 8785,
+      "frequency": 21
+    },
+    {
+      "doc_id": 8786,
+      "frequency": 10
+    },
+    {
+      "doc_id": 8789,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 26
+    },
+    {
+      "doc_id": 8791,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 6
+    },
+    {
+      "doc_id": 8795,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8796,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8797,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8800,
+      "frequency": 1
+    }
+  ],
+  "alexand": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    }
+  ],
+  "behm": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    }
+  ],
+  "student": [
+    {
+      "doc_id": 8701,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    }
+  ],
+  "shengyu": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    }
+  ],
+  "ji": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    }
+  ],
+  "liang": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "jin": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "graduat": [
+    {
+      "doc_id": 8701,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "2005": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "chen": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "faculti": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "jiaheng": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "lu": [
+    {
+      "doc_id": 8701,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "postdoc": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    }
+  ],
+  "yime": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "2008": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    }
+  ],
+  "rare": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8726,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    }
+  ],
+  "vernica": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "end": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8718,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 26
+    },
+    {
+      "doc_id": 8734,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8735,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8787,
+      "frequency": 34
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8798,
+      "frequency": 16
+    }
+  ],
+  "parent": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8702,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8708,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8712,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8713,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8716,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8719,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8722,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8723,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8725,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8729,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8731,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8736,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8738,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8740,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8742,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8745,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8747,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8749,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8750,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8752,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8757,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8758,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8760,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8762,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8764,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8768,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8769,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8771,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8778,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8781,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8783,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8785,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8786,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8789,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8791,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8795,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8796,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8797,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8800,
+      "frequency": 1
+    }
+  ],
+  "directori": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8702,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8708,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8712,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8713,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8716,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8719,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8722,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8723,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8725,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8729,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8731,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8736,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8738,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8740,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8742,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8745,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8747,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8749,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8750,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8752,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8757,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8758,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8760,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8762,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8764,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8768,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8769,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8771,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8778,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8781,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8783,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8785,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8786,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8789,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8791,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8795,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8796,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8797,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8800,
+      "frequency": 1
+    }
+  ],
+  "address": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8702,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8708,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8712,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8713,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8716,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8719,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8722,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8723,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8725,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8729,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8731,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8736,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8738,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8740,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8742,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8745,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8747,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8749,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8750,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8752,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8757,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8758,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8760,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8762,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8764,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8768,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8769,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8771,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8778,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8781,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8783,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8785,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8786,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8789,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8791,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8795,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8796,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8797,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8800,
+      "frequency": 1
+    }
+  ],
+  "cento": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8702,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8708,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8712,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8713,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8716,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8719,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8722,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8723,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8725,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8729,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8731,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8736,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8738,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8740,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8742,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8745,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8747,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8749,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8750,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8752,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8757,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8758,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8760,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8762,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8764,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8768,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8769,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8771,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8778,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8781,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8783,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8785,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8786,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8789,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8791,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8795,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8796,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8797,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8800,
+      "frequency": 1
+    }
+  ],
+  "server": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8702,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8708,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8712,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8713,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8716,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8719,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8722,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8723,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8725,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8729,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8731,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8736,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8738,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8740,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8742,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8745,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8747,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8749,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8750,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8752,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8757,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8758,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8760,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8762,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8764,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8768,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8769,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8771,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8778,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8781,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8783,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8785,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8786,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8789,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8791,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8795,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8796,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8797,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8800,
+      "frequency": 1
+    }
+  ],
+  "port": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8702,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8708,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8712,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8713,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8716,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8719,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8722,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8723,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8725,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8729,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8731,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8736,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8738,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8740,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8742,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8745,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8747,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8749,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8750,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8752,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8757,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8758,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8760,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8762,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8764,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8768,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8769,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8771,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8778,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8781,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8783,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8785,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8786,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8789,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8791,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8795,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8796,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8797,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8800,
+      "frequency": 1
+    }
+  ],
+  "80": [
+    {
+      "doc_id": 8701,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8702,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8708,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8712,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8713,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8714,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8716,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8719,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8722,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8723,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8725,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8729,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8731,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8736,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8738,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8740,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8742,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8744,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8745,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8747,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8749,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8750,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8752,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8754,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8756,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8757,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8758,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8760,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8762,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8764,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8768,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8769,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8771,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8778,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8781,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8783,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8784,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8785,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8786,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8787,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8789,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8791,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8795,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8796,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8797,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8798,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8800,
+      "frequency": 1
+    }
+  ],
+  "entri": [
+    {
+      "doc_id": 8702,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 20
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 2
+    }
+  ],
+  "format": [
+    {
+      "doc_id": 8702,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8703,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8704,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8709,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8746,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8755,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8777,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8793,
+      "frequency": 2
+    }
+  ],
+  "5149": [
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "copyright": [
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "c": [
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "2010": [
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    }
+  ],
+  "regent": [
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "univers": [
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "california": [
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "redistribut": [
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "file": [
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8707,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8715,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 7
+    },
+    {
+      "doc_id": 8726,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8730,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 47
+    },
+    {
+      "doc_id": 8737,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8741,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8743,
+      "frequency": 10
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8755,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8759,
+      "frequency": 24
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8765,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8773,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8792,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "permit": [
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "term": [
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "bsd": [
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "licens": [
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "author": [
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "date": [
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "includ": [
+    {
+      "doc_id": 8705,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 12
+    },
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 15
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 7
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 13
+    }
+  ],
+  "8": [
+    {
+      "doc_id": 8706,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8707,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8715,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8720,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8726,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8728,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8730,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8737,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8739,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8741,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8743,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8761,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8765,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8766,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8772,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8773,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8779,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8782,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8792,
+      "frequency": 1
+    }
+  ],
+  "dir": [
+    {
+      "doc_id": 8707,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8715,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8726,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8730,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8737,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8741,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8743,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8765,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8766,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8773,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8792,
+      "frequency": 1
+    }
+  ],
+  "6146": [
+    {
+      "doc_id": 8707,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8730,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8741,
+      "frequency": 10
+    }
+  ],
+  "svn": [
+    {
+      "doc_id": 8707,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8715,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8718,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8726,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8730,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8734,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8735,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8737,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8741,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8743,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8759,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8765,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8766,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8773,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8787,
+      "frequency": 34
+    },
+    {
+      "doc_id": 8792,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8798,
+      "frequency": 16
+    }
+  ],
+  "special": [
+    {
+      "doc_id": 8707,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8715,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8726,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8730,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8737,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8741,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8743,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8765,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8766,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8773,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8792,
+      "frequency": 1
+    }
+  ],
+  "extern": [
+    {
+      "doc_id": 8707,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8715,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8726,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8730,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8737,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8741,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8743,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8765,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8766,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8773,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8792,
+      "frequency": 1
+    }
+  ],
+  "build": [
+    {
+      "doc_id": 8707,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8737,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8765,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8773,
+      "frequency": 1
+    }
+  ],
+  "src": [
+    {
+      "doc_id": 8707,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8737,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8765,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8773,
+      "frequency": 1
+    }
+  ],
+  "data": [
+    {
+      "doc_id": 8707,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8710,
+      "frequency": 13
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 11
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8773,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 2
+    }
+  ],
+  "454e1d14a95d0f3c4d30448e4da7064a": [
+    {
+      "doc_id": 8707,
+      "frequency": 1
+    }
+  ],
+  "4143": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    }
+  ],
+  "2007": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "algorithm": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "class": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 3
+    }
+  ],
+  "cmpidx": [
+    {
+      "doc_id": 8710,
+      "frequency": 3
+    }
+  ],
+  "privat": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    }
+  ],
+  "const": [
+    {
+      "doc_id": 8710,
+      "frequency": 11
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 9
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 18
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 30
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 6
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 7
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 27
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 7
+    }
+  ],
+  "vector": [
+    {
+      "doc_id": 8710,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 16
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 6
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 9
+    }
+  ],
+  "bool": [
+    {
+      "doc_id": 8710,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 2
+    }
+  ],
+  "oper": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 16
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 4
+    }
+  ],
+  "unsign": [
+    {
+      "doc_id": 8710,
+      "frequency": 14
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 65
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 77
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 24
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 30
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 28
+    }
+  ],
+  "idx1": [
+    {
+      "doc_id": 8710,
+      "frequency": 2
+    }
+  ],
+  "idx2": [
+    {
+      "doc_id": 8710,
+      "frequency": 2
+    }
+  ],
+  "return": [
+    {
+      "doc_id": 8710,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 14
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 12
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 6
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 8
+    }
+  ],
+  "closelex": [
+    {
+      "doc_id": 8710,
+      "frequency": 5
+    }
+  ],
+  "cluster": [
+    {
+      "doc_id": 8710,
+      "frequency": 3
+    }
+  ],
+  "contquerypivot": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    }
+  ],
+  "q": [
+    {
+      "doc_id": 8710,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 3
+    }
+  ],
+  "samplep": [
+    {
+      "doc_id": 8710,
+      "frequency": 3
+    }
+  ],
+  "queuesiz": [
+    {
+      "doc_id": 8710,
+      "frequency": 5
+    }
+  ],
+  "ppdsampl": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    }
+  ],
+  "init": [
+    {
+      "doc_id": 8710,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "sampl": [
+    {
+      "doc_id": 8710,
+      "frequency": 3
+    }
+  ],
+  "size": [
+    {
+      "doc_id": 8710,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 3
+    }
+  ],
+  "0": [
+    {
+      "doc_id": 8710,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 21
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 26
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 73
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 6
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 6
+    }
+  ],
+  "sort": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "max": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 4
+    }
+  ],
+  "1u": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    }
+  ],
+  "float": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 9
+    }
+  ],
+  "loop": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    }
+  ],
+  "buildqueu": [
+    {
+      "doc_id": 8710,
+      "frequency": 2
+    }
+  ],
+  "j": [
+    {
+      "doc_id": 8710,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 29
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 55
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "getclust": [
+    {
+      "doc_id": 8710,
+      "frequency": 3
+    }
+  ],
+  "stringit": [
+    {
+      "doc_id": 8710,
+      "frequency": 4
+    }
+  ],
+  "void": [
+    {
+      "doc_id": 8710,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 21
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 7
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 10
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 4
+    }
+  ],
+  "sampleit": [
+    {
+      "doc_id": 8710,
+      "frequency": 4
+    }
+  ],
+  "true": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 6
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "fals": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 2
+    }
+  ],
+  "ppdtripl": [
+    {
+      "doc_id": 8710,
+      "frequency": 2
+    }
+  ],
+  "p": [
+    {
+      "doc_id": 8710,
+      "frequency": 6
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 11
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 3
+    }
+  ],
+  "simvect": [
+    {
+      "doc_id": 8710,
+      "frequency": 2
+    }
+  ],
+  "simdist": [
+    {
+      "doc_id": 8710,
+      "frequency": 2
+    }
+  ],
+  "increment": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    }
+  ],
+  "step": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    }
+  ],
+  "tripl": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    }
+  ],
+  "sizeclust": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    }
+  ],
+  "simtyp": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    }
+  ],
+  "dist": [
+    {
+      "doc_id": 8710,
+      "frequency": 4
+    }
+  ],
+  "indexentri": [
+    {
+      "doc_id": 8710,
+      "frequency": 1
+    }
+  ],
+  "1110": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    }
+  ],
+  "rvernica": [
+    {
+      "doc_id": 8711,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8726,
+      "frequency": 1
+    }
+  ],
+  "implement": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    }
+  ],
+  "partenum": [
+    {
+      "doc_id": 8711,
+      "frequency": 6
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 18
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "invent": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "microsoft": [
+    {
+      "doc_id": 8711,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8755,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    }
+  ],
+  "research": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "limit": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "non": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "commerci": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "use": [
+    {
+      "doc_id": 8711,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "would": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "cover": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "royalti": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "free": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 7
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "coven": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "made": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "cassert": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "iostream": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "namespac": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "std": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "testpartenum": [
+    {
+      "doc_id": 8711,
+      "frequency": 2
+    }
+  ],
+  "abc": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "ac": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "xyz": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "psave": [
+    {
+      "doc_id": 8711,
+      "frequency": 2
+    }
+  ],
+  "1": [
+    {
+      "doc_id": 8711,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 6
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 10
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 163
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 4
+    }
+  ],
+  "3": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8755,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 108
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    }
+  ],
+  "2": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 106
+    }
+  ],
+  "save": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 3
+    }
+  ],
+  "pload": [
+    {
+      "doc_id": 8711,
+      "frequency": 2
+    }
+  ],
+  "load": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    }
+  ],
+  "assert": [
+    {
+      "doc_id": 8711,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 12
+    }
+  ],
+  "searchcor": [
+    {
+      "doc_id": 8711,
+      "frequency": 2
+    }
+  ],
+  "searchr": [
+    {
+      "doc_id": 8711,
+      "frequency": 3
+    }
+  ],
+  "ab": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "search": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    }
+  ],
+  "cout": [
+    {
+      "doc_id": 8711,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 7
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 21
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 7
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 5
+    }
+  ],
+  "endl": [
+    {
+      "doc_id": 8711,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 7
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 15
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 12
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 6
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 7
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 6
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 6
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 5
+    }
+  ],
+  "int": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 9
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "main": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "test": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 2
+    }
+  ],
+  "ok": [
+    {
+      "doc_id": 8711,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 6
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "6144": [
+    {
+      "doc_id": 8715,
+      "frequency": 10
+    },
+    {
+      "doc_id": 8737,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8765,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8766,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8773,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8792,
+      "frequency": 6
+    }
+  ],
+  "d4ec080c78174d9246923f2fe7c20ae5": [
+    {
+      "doc_id": 8715,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8741,
+      "frequency": 1
+    }
+  ],
+  "7d59eb2393fb47e84b4e1785371248f6": [
+    {
+      "doc_id": 8715,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8741,
+      "frequency": 1
+    }
+  ],
+  "96464201aaba5ec5206e07bd29deb863": [
+    {
+      "doc_id": 8715,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8741,
+      "frequency": 1
+    }
+  ],
+  "e8a617628a4cf5ffeb9fa4290fb28c77": [
+    {
+      "doc_id": 8715,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8741,
+      "frequency": 1
+    }
+  ],
+  "b8dd62eb23f4e69de9545ef0fa8aa164": [
+    {
+      "doc_id": 8715,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8741,
+      "frequency": 1
+    }
+  ],
+  "c213e7a928ec5b311a8f899473913991": [
+    {
+      "doc_id": 8715,
+      "frequency": 1
+    }
+  ],
+  "9f4cd6f4282368801ff2419f3e068c82": [
+    {
+      "doc_id": 8715,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8741,
+      "frequency": 1
+    }
+  ],
+  "875998b3b95577e26a574a40a4f692a8": [
+    {
+      "doc_id": 8715,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8741,
+      "frequency": 1
+    }
+  ],
+  "xmln": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "meta": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "mattreedoc": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "group": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 6
+    }
+  ],
+  "style": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "import": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "url": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "back": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    }
+  ],
+  "hr": [
+    {
+      "doc_id": 8717,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "div": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    }
+  ],
+  "wikipag": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "searchabl": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "appstr": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "gt": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "appstringdoc": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "overview": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    }
+  ],
+  "structur": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    }
+  ],
+  "numer": [
+    {
+      "doc_id": 8717,
+      "frequency": 4
+    }
+  ],
+  "attribut": [
+    {
+      "doc_id": 8717,
+      "frequency": 5
+    }
+  ],
+  "perform": [
+    {
+      "doc_id": 8717,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "rang": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "queri": [
+    {
+      "doc_id": 8717,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 4
+    }
+  ],
+  "usag": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    }
+  ],
+  "program": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "compil": [
+    {
+      "doc_id": 8717,
+      "frequency": 4
+    }
+  ],
+  "visual": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    }
+  ],
+  "gnu": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "project": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8755,
+      "frequency": 1
+    }
+  ],
+  "run": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 2
+    }
+  ],
+  "accordingli": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "also": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "write": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    }
+  ],
+  "makefil": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8743,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8790,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8798,
+      "frequency": 1
+    }
+  ],
+  "interfac": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    }
+  ],
+  "function": [
+    {
+      "doc_id": 8717,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    }
+  ],
+  "defin": [
+    {
+      "doc_id": 8717,
+      "frequency": 9
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "node": [
+    {
+      "doc_id": 8717,
+      "frequency": 3
+    }
+  ],
+  "record": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    }
+  ],
+  "etc": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "basic": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "rect": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "trie": [
+    {
+      "doc_id": 8717,
+      "frequency": 3
+    }
+  ],
+  "distance1": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "calcul": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    }
+  ],
+  "edit": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8755,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 3
+    }
+  ],
+  "distanc": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    }
+  ],
+  "two": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "automaton": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    }
+  ],
+  "nfa": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    }
+  ],
+  "edg": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "modifi": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "meyer": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "text": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    }
+  ],
+  "zip": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    }
+  ],
+  "paramet": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "pre": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "wiki": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "xml": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "preserv": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "maxlen": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "length": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "pgsize": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "256": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "trielen": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "1000": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "represent": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "k": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8718,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 10
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8734,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8735,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8787,
+      "frequency": 34
+    },
+    {
+      "doc_id": 8798,
+      "frequency": 16
+    }
+  ],
+  "400": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "strdelta": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "numdelta": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "4": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8755,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 18
+    }
+  ],
+  "80000": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "dataset": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    }
+  ],
+  "29": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "alphabet": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "datafil": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    }
+  ],
+  "queryfil": [
+    {
+      "doc_id": 8717,
+      "frequency": 2
+    }
+  ],
+  "numqueri": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "10": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "prepar": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "one": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "line": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "follow": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "aq": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "valu": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "case": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "white": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "space": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 8
+    }
+  ],
+  "need": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "replac": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "charact": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "first": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 6
+    }
+  ],
+  "result": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 3
+    }
+  ],
+  "avail": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "nick": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "kouda": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "anthoni": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "tung": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "mix": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "type": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "retriev": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "vldb": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    }
+  ],
+  "footer": [
+    {
+      "doc_id": 8717,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    }
+  ],
+  "25": [
+    {
+      "doc_id": 8718,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8734,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8735,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8787,
+      "frequency": 34
+    },
+    {
+      "doc_id": 8798,
+      "frequency": 16
+    }
+  ],
+  "wc": [
+    {
+      "doc_id": 8718,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8734,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8735,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8787,
+      "frequency": 34
+    },
+    {
+      "doc_id": 8798,
+      "frequency": 16
+    }
+  ],
+  "v": [
+    {
+      "doc_id": 8718,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 10
+    },
+    {
+      "doc_id": 8734,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8735,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8787,
+      "frequency": 34
+    },
+    {
+      "doc_id": 8798,
+      "frequency": 16
+    }
+  ],
+  "77": [
+    {
+      "doc_id": 8718,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8787,
+      "frequency": 1
+    }
+  ],
+  "86": [
+    {
+      "doc_id": 8718,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8787,
+      "frequency": 2
+    }
+  ],
+  "89": [
+    {
+      "doc_id": 8718,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8787,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8798,
+      "frequency": 1
+    }
+  ],
+  "5146": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "cstring": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    }
+  ],
+  "freespaceentrycmpfunc": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "b": [
+    {
+      "doc_id": 8721,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "freespaceentri": [
+    {
+      "doc_id": 8721,
+      "frequency": 17
+    }
+  ],
+  "freespac": [
+    {
+      "doc_id": 8721,
+      "frequency": 23
+    }
+  ],
+  "freespacemanag": [
+    {
+      "doc_id": 8721,
+      "frequency": 14
+    }
+  ],
+  "insert": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 2
+    }
+  ],
+  "blocknum": [
+    {
+      "doc_id": 8721,
+      "frequency": 22
+    }
+  ],
+  "blockwithspac": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "freespaceset": [
+    {
+      "doc_id": 8721,
+      "frequency": 4
+    }
+  ],
+  "iter": [
+    {
+      "doc_id": 8721,
+      "frequency": 9
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 3
+    }
+  ],
+  "maxentri": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "totalfreespac": [
+    {
+      "doc_id": 8721,
+      "frequency": 8
+    }
+  ],
+  "els": [
+    {
+      "doc_id": 8721,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    }
+  ],
+  "streampo": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "avgfreespac": [
+    {
+      "doc_id": 8721,
+      "frequency": 3
+    }
+  ],
+  "break": [
+    {
+      "doc_id": 8721,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    }
+  ],
+  "getblockwithspac": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "print": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "total": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "avg": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "buffermanagerrm": [
+    {
+      "doc_id": 8721,
+      "frequency": 11
+    }
+  ],
+  "fstream": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "blocksiz": [
+    {
+      "doc_id": 8721,
+      "frequency": 23
+    }
+  ],
+  "bufferslot": [
+    {
+      "doc_id": 8721,
+      "frequency": 10
+    }
+  ],
+  "clockhand": [
+    {
+      "doc_id": 8721,
+      "frequency": 10
+    }
+  ],
+  "null": [
+    {
+      "doc_id": 8721,
+      "frequency": 3
+    }
+  ],
+  "bufferentri": [
+    {
+      "doc_id": 8721,
+      "frequency": 15
+    }
+  ],
+  "runner": [
+    {
+      "doc_id": 8721,
+      "frequency": 23
+    }
+  ],
+  "new": [
+    {
+      "doc_id": 8721,
+      "frequency": 6
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 6
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 4
+    }
+  ],
+  "next": [
+    {
+      "doc_id": 8721,
+      "frequency": 12
+    }
+  ],
+  "close": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "circl": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "readdiskblock": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "char": [
+    {
+      "doc_id": 8721,
+      "frequency": 20
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 17
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 5
+    }
+  ],
+  "block": [
+    {
+      "doc_id": 8721,
+      "frequency": 39
+    }
+  ],
+  "seekg": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "read": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    }
+  ],
+  "writediskblock": [
+    {
+      "doc_id": 8721,
+      "frequency": 4
+    }
+  ],
+  "seekp": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "getblock": [
+    {
+      "doc_id": 8721,
+      "frequency": 8
+    }
+  ],
+  "appendblock": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "tr1": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "find": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "alway": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "val": [
+    {
+      "doc_id": 8721,
+      "frequency": 4
+    }
+  ],
+  "make": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "old": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "buffer": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "slot": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "persist": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "dirti": [
+    {
+      "doc_id": 8721,
+      "frequency": 7
+    }
+  ],
+  "cachemap": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "second": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 11
+    }
+  ],
+  "incach": [
+    {
+      "doc_id": 8721,
+      "frequency": 3
+    }
+  ],
+  "flushbuff": [
+    {
+      "doc_id": 8721,
+      "frequency": 4
+    }
+  ],
+  "delet": [
+    {
+      "doc_id": 8721,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8755,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 4
+    }
+  ],
+  "stringrm": [
+    {
+      "doc_id": 8721,
+      "frequency": 17
+    }
+  ],
+  "initdiskblock": [
+    {
+      "doc_id": 8721,
+      "frequency": 3
+    }
+  ],
+  "memset": [
+    {
+      "doc_id": 8721,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    }
+  ],
+  "set": [
+    {
+      "doc_id": 8721,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 4
+    }
+  ],
+  "whole": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "zero": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "dictionari": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "unus": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "dictoffset": [
+    {
+      "doc_id": 8721,
+      "frequency": 8
+    }
+  ],
+  "numdictslot": [
+    {
+      "doc_id": 8721,
+      "frequency": 11
+    }
+  ],
+  "sizeof": [
+    {
+      "doc_id": 8721,
+      "frequency": 42
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 16
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 5
+    }
+  ],
+  "pointer": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "numfreespaceslot": [
+    {
+      "doc_id": 8721,
+      "frequency": 9
+    }
+  ],
+  "addfreespaceentri": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "tmp": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "memcpi": [
+    {
+      "doc_id": 8721,
+      "frequency": 12
+    }
+  ],
+  "error": [
+    {
+      "doc_id": 8721,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    }
+  ],
+  "could": [
+    {
+      "doc_id": 8721,
+      "frequency": 3
+    }
+  ],
+  "add": [
+    {
+      "doc_id": 8721,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 17
+    }
+  ],
+  "todo": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "probabl": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "schedul": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "page": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "sortfreespaceentri": [
+    {
+      "doc_id": 8721,
+      "frequency": 3
+    }
+  ],
+  "qsort": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "getnextblocknum": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "nextblockoffset": [
+    {
+      "doc_id": 8721,
+      "frequency": 5
+    }
+  ],
+  "insertstringintoblock": [
+    {
+      "doc_id": 8721,
+      "frequency": 4
+    }
+  ],
+  "fit": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "polici": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "enough": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "tri": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "insertedslot": [
+    {
+      "doc_id": 8721,
+      "frequency": 3
+    }
+  ],
+  "slotcount": [
+    {
+      "doc_id": 8721,
+      "frequency": 6
+    }
+  ],
+  "dictentri": [
+    {
+      "doc_id": 8721,
+      "frequency": 3
+    }
+  ],
+  "offset": [
+    {
+      "doc_id": 8721,
+      "frequency": 5
+    }
+  ],
+  "strlength": [
+    {
+      "doc_id": 8721,
+      "frequency": 5
+    }
+  ],
+  "rawdata": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "merg": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 4
+    }
+  ],
+  "adjac": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "bit": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "insertstringintolastblock": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "recordid": [
+    {
+      "doc_id": 8721,
+      "frequency": 4
+    }
+  ],
+  "rid": [
+    {
+      "doc_id": 8721,
+      "frequency": 5
+    }
+  ],
+  "retval": [
+    {
+      "doc_id": 8721,
+      "frequency": 5
+    }
+  ],
+  "lastfileblock": [
+    {
+      "doc_id": 8721,
+      "frequency": 7
+    }
+  ],
+  "retrievestr": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "target": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 2
+    }
+  ],
+  "stroffset": [
+    {
+      "doc_id": 8721,
+      "frequency": 4
+    }
+  ],
+  "strlen": [
+    {
+      "doc_id": 8721,
+      "frequency": 3
+    }
+  ],
+  "insertstr": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "freeblock": [
+    {
+      "doc_id": 8721,
+      "frequency": 3
+    }
+  ],
+  "buffermanag": [
+    {
+      "doc_id": 8721,
+      "frequency": 9
+    }
+  ],
+  "createstringcollect": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "filenam": [
+    {
+      "doc_id": 8721,
+      "frequency": 6
+    }
+  ],
+  "avgstrlen": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "io": [
+    {
+      "doc_id": 8721,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 10
+    }
+  ],
+  "open": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8724,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 3
+    }
+  ],
+  "writecollectiondescr": [
+    {
+      "doc_id": 8721,
+      "frequency": 3
+    }
+  ],
+  "openstringcollect": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "disablestreambuff": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "pubsetbuf": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "readcollectiondescr": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "forc": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "flush": [
+    {
+      "doc_id": 8721,
+      "frequency": 2
+    }
+  ],
+  "cach": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "disk": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "flushcach": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "updat": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "inform": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "descrentri": [
+    {
+      "doc_id": 8721,
+      "frequency": 1
+    }
+  ],
+  "4096": [
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    }
+  ],
+  "editdist": [
+    {
+      "doc_id": 8724,
+      "frequency": 7
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 19
+    }
+  ],
+  "n1": [
+    {
+      "doc_id": 8724,
+      "frequency": 10
+    }
+  ],
+  "n2": [
+    {
+      "doc_id": 8724,
+      "frequency": 10
+    }
+  ],
+  "gramid": [
+    {
+      "doc_id": 8724,
+      "frequency": 6
+    }
+  ],
+  "k2": [
+    {
+      "doc_id": 8724,
+      "frequency": 6
+    }
+  ],
+  "sub": [
+    {
+      "doc_id": 8724,
+      "frequency": 5
+    }
+  ],
+  "subset": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    }
+  ],
+  "datalen": [
+    {
+      "doc_id": 8724,
+      "frequency": 9
+    }
+  ],
+  "siglen": [
+    {
+      "doc_id": 8724,
+      "frequency": 23
+    }
+  ],
+  "bucket": [
+    {
+      "doc_id": 8724,
+      "frequency": 32
+    }
+  ],
+  "sigsbucket": [
+    {
+      "doc_id": 8724,
+      "frequency": 10
+    }
+  ],
+  "siglenmax": [
+    {
+      "doc_id": 8724,
+      "frequency": 3
+    }
+  ],
+  "cerr": [
+    {
+      "doc_id": 8724,
+      "frequency": 24
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 8
+    }
+  ],
+  "greater": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    }
+  ],
+  "exit": [
+    {
+      "doc_id": 8724,
+      "frequency": 9
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 3
+    }
+  ],
+  "filenameprefix": [
+    {
+      "doc_id": 8724,
+      "frequency": 11
+    }
+  ],
+  "loadindex": [
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    }
+  ],
+  "sign": [
+    {
+      "doc_id": 8724,
+      "frequency": 5
+    }
+  ],
+  "sig": [
+    {
+      "doc_id": 8724,
+      "frequency": 21
+    }
+  ],
+  "begin": [
+    {
+      "doc_id": 8724,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 26
+    }
+  ],
+  "10000": [
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    }
+  ],
+  "time": [
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "effici": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    }
+  ],
+  "map": [
+    {
+      "doc_id": 8724,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    }
+  ],
+  "bucketsvec": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    }
+  ],
+  "sz": [
+    {
+      "doc_id": 8724,
+      "frequency": 12
+    }
+  ],
+  "jt": [
+    {
+      "doc_id": 8724,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 3
+    }
+  ],
+  "memori": [
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    }
+  ],
+  "bucketsz": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    }
+  ],
+  "param": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    }
+  ],
+  "filenameparam": [
+    {
+      "doc_id": 8724,
+      "frequency": 17
+    }
+  ],
+  "paramsuffix": [
+    {
+      "doc_id": 8724,
+      "frequency": 3
+    }
+  ],
+  "ofstream": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 2
+    }
+  ],
+  "fileparam": [
+    {
+      "doc_id": 8724,
+      "frequency": 4
+    }
+  ],
+  "ca": [
+    {
+      "doc_id": 8724,
+      "frequency": 6
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 3
+    }
+  ],
+  "output": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 2
+    }
+  ],
+  "writeerror": [
+    {
+      "doc_id": 8724,
+      "frequency": 8
+    }
+  ],
+  "filenamesig": [
+    {
+      "doc_id": 8724,
+      "frequency": 14
+    }
+  ],
+  "signsuffix": [
+    {
+      "doc_id": 8724,
+      "frequency": 3
+    }
+  ],
+  "filesig": [
+    {
+      "doc_id": 8724,
+      "frequency": 4
+    }
+  ],
+  "filenameperfix": [
+    {
+      "doc_id": 8724,
+      "frequency": 4
+    }
+  ],
+  "consistindex": [
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    }
+  ],
+  "consist": [
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    }
+  ],
+  "ifstream": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 3
+    }
+  ],
+  "input": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    }
+  ],
+  "readerror": [
+    {
+      "doc_id": 8724,
+      "frequency": 8
+    }
+  ],
+  "bucketno": [
+    {
+      "doc_id": 8724,
+      "frequency": 3
+    }
+  ],
+  "key": [
+    {
+      "doc_id": 8724,
+      "frequency": 3
+    }
+  ],
+  "filenamesign": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    }
+  ],
+  "struct": [
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    }
+  ],
+  "stat": [
+    {
+      "doc_id": 8724,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 3
+    }
+  ],
+  "attribparam": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    }
+  ],
+  "attribsign": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    }
+  ],
+  "geteditdist": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    }
+  ],
+  "constructor": [
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    }
+  ],
+  "checksbit": [
+    {
+      "doc_id": 8724,
+      "frequency": 4
+    }
+  ],
+  "po": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    }
+  ],
+  "ed": [
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 11
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    }
+  ],
+  "sigp": [
+    {
+      "doc_id": 8724,
+      "frequency": 3
+    }
+  ],
+  "sg": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    }
+  ],
+  "p1": [
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    }
+  ],
+  "boost": [
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    }
+  ],
+  "vectorhash": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    }
+  ],
+  "h": [
+    {
+      "doc_id": 8724,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "b1": [
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    }
+  ],
+  "b2": [
+    {
+      "doc_id": 8724,
+      "frequency": 1
+    }
+  ],
+  "4072": [
+    {
+      "doc_id": 8726,
+      "frequency": 1
+    }
+  ],
+  "4037": [
+    {
+      "doc_id": 8726,
+      "frequency": 2
+    }
+  ],
+  "59598f35d7ab624999f0b64ab03f0c01": [
+    {
+      "doc_id": 8726,
+      "frequency": 1
+    }
+  ],
+  "e23cb4a8f7e1382010342c3aaa610ecb": [
+    {
+      "doc_id": 8726,
+      "frequency": 1
+    }
+  ],
+  "1123": [
+    {
+      "doc_id": 8726,
+      "frequency": 1
+    }
+  ],
+  "5714": [
+    {
+      "doc_id": 8727,
+      "frequency": 1
+    }
+  ],
+  "8e7aec2f5e6f83009aa478d3245314d4": [
+    {
+      "doc_id": 8730,
+      "frequency": 1
+    }
+  ],
+  "5716": [
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    }
+  ],
+  "list": [
+    {
+      "doc_id": 8732,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "templat": [
+    {
+      "doc_id": 8732,
+      "frequency": 2
+    }
+  ],
+  "typenam": [
+    {
+      "doc_id": 8732,
+      "frequency": 2
+    }
+  ],
+  "printarray": [
+    {
+      "doc_id": 8732,
+      "frequency": 2
+    }
+  ],
+  "array": [
+    {
+      "doc_id": 8732,
+      "frequency": 7
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 12
+    }
+  ],
+  "count": [
+    {
+      "doc_id": 8732,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    }
+  ],
+  "printvector": [
+    {
+      "doc_id": 8732,
+      "frequency": 2
+    }
+  ],
+  "printvectorunsign": [
+    {
+      "doc_id": 8732,
+      "frequency": 2
+    }
+  ],
+  "printarrayunsign": [
+    {
+      "doc_id": 8732,
+      "frequency": 2
+    }
+  ],
+  "showvectorint": [
+    {
+      "doc_id": 8732,
+      "frequency": 2
+    }
+  ],
+  "showstringvector": [
+    {
+      "doc_id": 8732,
+      "frequency": 2
+    }
+  ],
+  "showarrayunsign": [
+    {
+      "doc_id": 8732,
+      "frequency": 3
+    }
+  ],
+  "showvectorunsign": [
+    {
+      "doc_id": 8732,
+      "frequency": 2
+    }
+  ],
+  "showarrayunsignedlist": [
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    }
+  ],
+  "show": [
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    }
+  ],
+  "onelist": [
+    {
+      "doc_id": 8732,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 4
+    }
+  ],
+  "showvectorunsignedlist": [
+    {
+      "doc_id": 8732,
+      "frequency": 1
+    }
+  ],
+  "showunsignedset": [
+    {
+      "doc_id": 8732,
+      "frequency": 2
+    }
+  ],
+  "less": [
+    {
+      "doc_id": 8732,
+      "frequency": 2
+    }
+  ],
+  "ite": [
+    {
+      "doc_id": 8732,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 3
+    }
+  ],
+  "develop": [
+    {
+      "doc_id": 8733,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8755,
+      "frequency": 1
+    }
+  ],
+  "studio": [
+    {
+      "doc_id": 8733,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8755,
+      "frequency": 1
+    }
+  ],
+  "retre": [
+    {
+      "doc_id": 8733,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8755,
+      "frequency": 1
+    }
+  ],
+  "gener": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "version": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8755,
+      "frequency": 1
+    }
+  ],
+  "targtyp": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "win32": [
+    {
+      "doc_id": 8733,
+      "frequency": 15
+    }
+  ],
+  "x86": [
+    {
+      "doc_id": 8733,
+      "frequency": 3
+    }
+  ],
+  "consol": [
+    {
+      "doc_id": 8733,
+      "frequency": 7
+    }
+  ],
+  "applic": [
+    {
+      "doc_id": 8733,
+      "frequency": 3
+    }
+  ],
+  "0x0103": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "debug": [
+    {
+      "doc_id": 8733,
+      "frequency": 9
+    }
+  ],
+  "messag": [
+    {
+      "doc_id": 8733,
+      "frequency": 15
+    }
+  ],
+  "valid": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "nmake": [
+    {
+      "doc_id": 8733,
+      "frequency": 4
+    }
+  ],
+  "export": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "command": [
+    {
+      "doc_id": 8733,
+      "frequency": 2
+    }
+  ],
+  "specifi": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "configur": [
+    {
+      "doc_id": 8733,
+      "frequency": 2
+    }
+  ],
+  "macro": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "cfg": [
+    {
+      "doc_id": 8733,
+      "frequency": 3
+    }
+  ],
+  "exampl": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "possibl": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "choic": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "releas": [
+    {
+      "doc_id": 8733,
+      "frequency": 7
+    },
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "base": [
+    {
+      "doc_id": 8733,
+      "frequency": 20
+    }
+  ],
+  "prop": [
+    {
+      "doc_id": 8733,
+      "frequency": 27
+    }
+  ],
+  "allowperconfigdepend": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "cpp": [
+    {
+      "doc_id": 8733,
+      "frequency": 6
+    }
+  ],
+  "ndebug": [
+    {
+      "doc_id": 8733,
+      "frequency": 4
+    }
+  ],
+  "rsc": [
+    {
+      "doc_id": 8733,
+      "frequency": 4
+    }
+  ],
+  "0x409": [
+    {
+      "doc_id": 8733,
+      "frequency": 4
+    }
+  ],
+  "bsc32": [
+    {
+      "doc_id": 8733,
+      "frequency": 4
+    }
+  ],
+  "link32": [
+    {
+      "doc_id": 8733,
+      "frequency": 4
+    }
+  ],
+  "i386": [
+    {
+      "doc_id": 8733,
+      "frequency": 4
+    }
+  ],
+  "elseif": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "sept": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "endif": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    }
+  ],
+  "name": [
+    {
+      "doc_id": 8733,
+      "frequency": 2
+    }
+  ],
+  "sourc": [
+    {
+      "doc_id": 8733,
+      "frequency": 43
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 2
+    }
+  ],
+  "cxx": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "rc": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "def": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "r": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "odl": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "idl": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "hpj": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "bat": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "hpp": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "hxx": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "hm": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "inl": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "resourc": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "ico": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "cur": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "bmp": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "dlg": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "rc2": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "rct": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "bin": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "rg": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "gif": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "jpg": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "jpeg": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "jpe": [
+    {
+      "doc_id": 8733,
+      "frequency": 1
+    }
+  ],
+  "63": [
+    {
+      "doc_id": 8734,
+      "frequency": 1
+    }
+  ],
+  "75": [
+    {
+      "doc_id": 8735,
+      "frequency": 1
+    }
+  ],
+  "87": [
+    {
+      "doc_id": 8735,
+      "frequency": 1
+    }
+  ],
+  "d6e47b2c3795f8b78c7ca372fdffa560": [
+    {
+      "doc_id": 8737,
+      "frequency": 1
+    }
+  ],
+  "30a4834eff158d546fcd64842f9e062c": [
+    {
+      "doc_id": 8741,
+      "frequency": 1
+    }
+  ],
+  "4109": [
+    {
+      "doc_id": 8743,
+      "frequency": 1
+    }
+  ],
+  "4099": [
+    {
+      "doc_id": 8743,
+      "frequency": 4
+    }
+  ],
+  "fb87bf20eb57240f435723301096496c": [
+    {
+      "doc_id": 8743,
+      "frequency": 1
+    }
+  ],
+  "742d130200c109ed850aa5a06bc91b2c": [
+    {
+      "doc_id": 8743,
+      "frequency": 1
+    }
+  ],
+  "4025": [
+    {
+      "doc_id": 8743,
+      "frequency": 6
+    },
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8775,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "9aafd98ffea98ce214726a4e2eb693c6": [
+    {
+      "doc_id": 8743,
+      "frequency": 1
+    }
+  ],
+  "66d64c8b32782dd45618cb91dcbddb8d": [
+    {
+      "doc_id": 8743,
+      "frequency": 1
+    }
+  ],
+  "4030": [
+    {
+      "doc_id": 8743,
+      "frequency": 1
+    }
+  ],
+  "da136ee96d3e4caca384f6ec38fba34c": [
+    {
+      "doc_id": 8743,
+      "frequency": 1
+    }
+  ],
+  "d7ae2e66d0d19dc5f2816dac8ff280d": [
+    {
+      "doc_id": 8743,
+      "frequency": 1
+    }
+  ],
+  "1376e6bea6d247ffc89a303798a555b0": [
+    {
+      "doc_id": 8743,
+      "frequency": 1
+    }
+  ],
+  "3d344624b5ed86340fb2a26c58157a52": [
+    {
+      "doc_id": 8743,
+      "frequency": 1
+    }
+  ],
+  "b5f2a91d303c3b77addf62c0ed0316f4": [
+    {
+      "doc_id": 8743,
+      "frequency": 1
+    }
+  ],
+  "a98d41f0f73305de6882ff39d4150044": [
+    {
+      "doc_id": 8743,
+      "frequency": 1
+    }
+  ],
+  "5772": [
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    }
+  ],
+  "topk": [
+    {
+      "doc_id": 8748,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    }
+  ],
+  "4285": [
+    {
+      "doc_id": 8751,
+      "frequency": 1
+    }
+  ],
+  "4049": [
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "small": [
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    }
+  ],
+  "agreement": [
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "permiss": [
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "copi": [
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "distribut": [
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "sepia": [
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "stringmap": [
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "filtertre": [
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "gpl": [
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "question": [
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "regard": [
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "pleas": [
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "send": [
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "email": [
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "googl": [
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "analyt": [
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "script": [
+    {
+      "doc_id": 8753,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 2
+    }
+  ],
+  "urchintrack": [
+    {
+      "doc_id": 8753,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8794,
+      "frequency": 1
+    }
+  ],
+  "workspac": [
+    {
+      "doc_id": 8755,
+      "frequency": 2
+    }
+  ],
+  "warn": [
+    {
+      "doc_id": 8755,
+      "frequency": 1
+    }
+  ],
+  "5": [
+    {
+      "doc_id": 8755,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 18
+    }
+  ],
+  "global": [
+    {
+      "doc_id": 8755,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    }
+  ],
+  "5816": [
+    {
+      "doc_id": 8759,
+      "frequency": 26
+    }
+  ],
+  "a2919923b4291c3989b24da35f948b8c": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "1f3fce5021731af922df4becab958808": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "35838053bcd1fc0f0bd6c6640b423bbc": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "f18947a26eb15e76f62f00238293959c": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "1a9dfac25d35961e52fbb89101aa06d5": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "0348874256ee3da8d6a4f59c0ced6d": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "6be0511056d099d9f8b4490ccae7af93": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "25d02ec1516adfb6e1857c827b1f2f4b": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "ae179d9b2f2aa5a628b60daa64a404c1": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "e5d139b3a8e38ac2172844491a765d05": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "d9d5438cc17030365f1f4426cf41311f": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "1af20af4cefeb86a4fd9ce85b922dde3": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "367ba0c2dbc84a5d055d2bf1f0de9261": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "af51f3a7fb25a5f44b1bbd6faf8b37ec": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "32563d7540eae1d6e69f84d15bde88a5": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "1c481345f9abf09d2a3c50957ae2a6d9": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "dc1b80aec40e89ff53d95950075d59e3": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "aeecb7b96fa0e003d86397dcb460824b": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "e9ab0039e04e18e2f9589f3082738fa3": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "7bacb72787befab6c5514b451f4dc1": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "d3e460db40da43b59286b9efeb75900c": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "5f94fee3d6dd37cf8ec7f612e4bc8805": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "6018fb7d478a8af3d7106b766eebda88": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "666ec139e4a4b183132ff507b374754c": [
+    {
+      "doc_id": 8759,
+      "frequency": 1
+    }
+  ],
+  "jaccvect": [
+    {
+      "doc_id": 8763,
+      "frequency": 8
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 8
+    }
+  ],
+  "s1": [
+    {
+      "doc_id": 8763,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 3
+    }
+  ],
+  "s2": [
+    {
+      "doc_id": 8763,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 3
+    }
+  ],
+  "n": [
+    {
+      "doc_id": 8763,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8776,
+      "frequency": 12
+    },
+    {
+      "doc_id": 8780,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 5
+    }
+  ],
+  "unio": [
+    {
+      "doc_id": 8763,
+      "frequency": 3
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 3
+    }
+  ],
+  "s1gram": [
+    {
+      "doc_id": 8763,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 2
+    }
+  ],
+  "s2gram": [
+    {
+      "doc_id": 8763,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 2
+    }
+  ],
+  "sint": [
+    {
+      "doc_id": 8763,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 2
+    }
+  ],
+  "suni": [
+    {
+      "doc_id": 8763,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 2
+    }
+  ],
+  "str2gram": [
+    {
+      "doc_id": 8763,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 2
+    }
+  ],
+  "ostream": [
+    {
+      "doc_id": 8763,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 4
+    }
+  ],
+  "jv": [
+    {
+      "doc_id": 8763,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 2
+    }
+  ],
+  "istream": [
+    {
+      "doc_id": 8763,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 2
+    }
+  ],
+  "left": [
+    {
+      "doc_id": 8763,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 4
+    }
+  ],
+  "right": [
+    {
+      "doc_id": 8763,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 4
+    }
+  ],
+  "metric": [
+    {
+      "doc_id": 8763,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    }
+  ],
+  "jacc": [
+    {
+      "doc_id": 8763,
+      "frequency": 2
+    },
+    {
+      "doc_id": 8788,
+      "frequency": 2
+    }
+  ],
+  "2dd1dc10242413ab447ad8f0331148e0": [
+    {
+      "doc_id": 8765,
+      "frequency": 1
+    }
+  ],
+  "counttabl": [
+    {
+      "doc_id": 8767,
+      "frequency": 5
+    }
+  ],
+  "queryid": [
+    {
+      "doc_id": 8767,
+      "frequency": 5
+    }
+  ],
+  "reset": [
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    }
+  ],
+  "stringcount": [
+    {
+      "doc_id": 8767,
+      "frequency": 4
+    }
+  ],
+  "addcount": [
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    }
+  ],
+  "maxcount": [
+    {
+      "doc_id": 8767,
+      "frequency": 2
+    }
+  ],
+  "markcount": [
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    }
+  ],
+  "getcount": [
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    }
+  ],
+  "ismark": [
+    {
+      "doc_id": 8767,
+      "frequency": 1
+    }
+  ],
+  "3642": [
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    }
+  ],
+  "academ": [
+    {
+      "doc_id": 8770,
+      "frequency": 1
+    }
+  ],
+  "readm": [
+    {
+      "doc_id": 8773,
+      "frequency": 1
+    }
+  ],
+  "82e17a501db826f3329c6b3399d77a0f": [
+    {
+      "doc_id": 8773,
+      "frequency": 1
+    }
+  ],
+  "cf055360a432910d809290ef00e70274": [
+    {
+      "doc_id": 8773,
+      "frequency": 1
+    }
+  ],
+  "4105": [
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    }
+  ],
+  "local": [
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    }
+  ],
+  "chenli": [
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    }
+  ],
+  "codebaseroot": [
+    {
+      "doc_id": 8774,
+      "frequency": 8
+    }
+  ],
+  "absolut": [
+    {
+      "doc_id": 8774,
+      "frequency": 2
+    }
+  ],
+  "path": [
+    {
+      "doc_id": 8774,
+      "frequency": 2
+    }
+  ],
+  "code": [
+    {
+      "doc_id": 8774,
+      "frequency": 4
+    }
+  ],
+  "put": [
+    {
+      "doc_id": 8774,
+      "frequency": 2
+    }
+  ],
+  "appstringroot": [
+    {
+      "doc_id": 8774,
+      "frequency": 4
+    }
+  ],
+  "vpath": [
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    }
+  ],
+  "cc": [
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    }
+  ],
+  "cppflag": [
+    {
+      "doc_id": 8774,
+      "frequency": 2
+    }
+  ],
+  "ifndef": [
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    }
+  ],
+  "variabl": [
+    {
+      "doc_id": 8774,
+      "frequency": 1
+    }
+  ],
+  "iomanip": [
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "testsimmetr": [
+    {
+      "doc_id": 8776,
+      "frequency": 2
+    }
+  ],
+  "uint": [
+    {
+      "doc_id": 8776,
+      "frequency": 12
+    }
+  ],
+  "gramgen": [
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "g": [
+    {
+      "doc_id": 8776,
+      "frequency": 5
+    }
+  ],
+  "gramgenfixedlen": [
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "simmetr": [
+    {
+      "doc_id": 8776,
+      "frequency": 3
+    }
+  ],
+  "sim": [
+    {
+      "doc_id": 8776,
+      "frequency": 5
+    }
+  ],
+  "bc": [
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "abcdef": [
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "bac": [
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "acb": [
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "ba": [
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "12": [
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "6": [
+    {
+      "doc_id": 8776,
+      "frequency": 10
+    }
+  ],
+  "simmetricednorm": [
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "edswap": [
+    {
+      "doc_id": 8776,
+      "frequency": 6
+    }
+  ],
+  "simmetricedswap": [
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "simmetricjacc": [
+    {
+      "doc_id": 8776,
+      "frequency": 1
+    }
+  ],
+  "jc": [
+    {
+      "doc_id": 8776,
+      "frequency": 5
+    }
+  ],
+  "5713": [
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    }
+  ],
+  "editdistmin": [
+    {
+      "doc_id": 8780,
+      "frequency": 9
+    }
+  ],
+  "editdistmax": [
+    {
+      "doc_id": 8780,
+      "frequency": 6
+    }
+  ],
+  "getfilenamequeri": [
+    {
+      "doc_id": 8780,
+      "frequency": 4
+    }
+  ],
+  "pathdata": [
+    {
+      "doc_id": 8780,
+      "frequency": 14
+    }
+  ],
+  "namedataset": [
+    {
+      "doc_id": 8780,
+      "frequency": 14
+    }
+  ],
+  "querycount": [
+    {
+      "doc_id": 8780,
+      "frequency": 15
+    }
+  ],
+  "removeext": [
+    {
+      "doc_id": 8780,
+      "frequency": 2
+    }
+  ],
+  "utosh": [
+    {
+      "doc_id": 8780,
+      "frequency": 2
+    }
+  ],
+  "getfilenameansw": [
+    {
+      "doc_id": 8780,
+      "frequency": 4
+    }
+  ],
+  "uto": [
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    }
+  ],
+  "existqueri": [
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    }
+  ],
+  "filenamequeri": [
+    {
+      "doc_id": 8780,
+      "frequency": 6
+    }
+  ],
+  "filenameansw": [
+    {
+      "doc_id": 8780,
+      "frequency": 9
+    }
+  ],
+  "filequ": [
+    {
+      "doc_id": 8780,
+      "frequency": 2
+    }
+  ],
+  "filean": [
+    {
+      "doc_id": 8780,
+      "frequency": 4
+    }
+  ],
+  "attribqu": [
+    {
+      "doc_id": 8780,
+      "frequency": 2
+    }
+  ],
+  "attriban": [
+    {
+      "doc_id": 8780,
+      "frequency": 2
+    }
+  ],
+  "genqueri": [
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    }
+  ],
+  "que": [
+    {
+      "doc_id": 8780,
+      "frequency": 2
+    }
+  ],
+  "gen": [
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    }
+  ],
+  "filequeri": [
+    {
+      "doc_id": 8780,
+      "frequency": 2
+    }
+  ],
+  "querya": [
+    {
+      "doc_id": 8780,
+      "frequency": 4
+    }
+  ],
+  "answer": [
+    {
+      "doc_id": 8780,
+      "frequency": 2
+    }
+  ],
+  "an": [
+    {
+      "doc_id": 8780,
+      "frequency": 4
+    }
+  ],
+  "e": [
+    {
+      "doc_id": 8780,
+      "frequency": 6
+    }
+  ],
+  "readqueri": [
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    }
+  ],
+  "readbin": [
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    }
+  ],
+  "readansw": [
+    {
+      "doc_id": 8780,
+      "frequency": 1
+    }
+  ],
+  "fileansw": [
+    {
+      "doc_id": 8780,
+      "frequency": 2
+    }
+  ],
+  "72": [
+    {
+      "doc_id": 8787,
+      "frequency": 1
+    }
+  ],
+  "81": [
+    {
+      "doc_id": 8787,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8798,
+      "frequency": 2
+    }
+  ],
+  "79": [
+    {
+      "doc_id": 8787,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8798,
+      "frequency": 2
+    }
+  ],
+  "85": [
+    {
+      "doc_id": 8787,
+      "frequency": 5
+    },
+    {
+      "doc_id": 8798,
+      "frequency": 1
+    }
+  ],
+  "90": [
+    {
+      "doc_id": 8787,
+      "frequency": 1
+    }
+  ],
+  "78": [
+    {
+      "doc_id": 8787,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8798,
+      "frequency": 1
+    }
+  ],
+  "84": [
+    {
+      "doc_id": 8787,
+      "frequency": 4
+    },
+    {
+      "doc_id": 8798,
+      "frequency": 1
+    }
+  ],
+  "82": [
+    {
+      "doc_id": 8787,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8798,
+      "frequency": 3
+    }
+  ],
+  "83": [
+    {
+      "doc_id": 8787,
+      "frequency": 1
+    },
+    {
+      "doc_id": 8798,
+      "frequency": 1
+    }
+  ],
+  "4034": [
+    {
+      "doc_id": 8788,
+      "frequency": 1
+    }
+  ],
+  "dfeb257a37dac9ea73c3b0d24a116d08": [
+    {
+      "doc_id": 8792,
+      "frequency": 1
+    }
+  ],
+  "34d82eee56b208fd8f63ba3dcd5b8750": [
+    {
+      "doc_id": 8792,
+      "frequency": 1
+    }
+  ],
+  "ac70f9ecaf1a84da031d41183fc5f231": [
+    {
+      "doc_id": 8792,
+      "frequency": 1
+    }
+  ],
+  "1527fcd509bd294078d711312936a692": [
+    {
+      "doc_id": 8792,
+      "frequency": 1
+    }
+  ],
+  "70": [
+    {
+      "doc_id": 8798,
+      "frequency": 1
+    }
+  ],
+  "88": [
+    {
+      "doc_id": 8798,
+      "frequency": 1
+    }
+  ],
+  "randomgeneratelist": [
+    {
+      "doc_id": 8799,
+      "frequency": 2
+    }
+  ],
+  "setsiz": [
+    {
+      "doc_id": 8799,
+      "frequency": 4
+    }
+  ],
+  "random": [
+    {
+      "doc_id": 8799,
+      "frequency": 6
+    }
+  ],
+  "150": [
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "append": [
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "randomlistsgener": [
+    {
+      "doc_id": 8799,
+      "frequency": 4
+    }
+  ],
+  "seed": [
+    {
+      "doc_id": 8799,
+      "frequency": 8
+    }
+  ],
+  "srand": [
+    {
+      "doc_id": 8799,
+      "frequency": 2
+    }
+  ],
+  "listsnumb": [
+    {
+      "doc_id": 8799,
+      "frequency": 4
+    }
+  ],
+  "120": [
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "duplicatenumb": [
+    {
+      "doc_id": 8799,
+      "frequency": 4
+    }
+  ],
+  "freeindex": [
+    {
+      "doc_id": 8799,
+      "frequency": 4
+    }
+  ],
+  "tofre": [
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "testrandommergealgorithmswithdupl": [
+    {
+      "doc_id": 8799,
+      "frequency": 2
+    }
+  ],
+  "arrays1": [
+    {
+      "doc_id": 8799,
+      "frequency": 4
+    }
+  ],
+  "arrays2": [
+    {
+      "doc_id": 8799,
+      "frequency": 4
+    }
+  ],
+  "arrays3": [
+    {
+      "doc_id": 8799,
+      "frequency": 4
+    }
+  ],
+  "threshold": [
+    {
+      "doc_id": 8799,
+      "frequency": 8
+    }
+  ],
+  "result1": [
+    {
+      "doc_id": 8799,
+      "frequency": 2
+    }
+  ],
+  "result2": [
+    {
+      "doc_id": 8799,
+      "frequency": 2
+    }
+  ],
+  "result3": [
+    {
+      "doc_id": 8799,
+      "frequency": 2
+    }
+  ],
+  "scancountmerg": [
+    {
+      "doc_id": 8799,
+      "frequency": 2
+    }
+  ],
+  "mergelists1": [
+    {
+      "doc_id": 8799,
+      "frequency": 2
+    }
+  ],
+  "9999999": [
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "divideskipmerg": [
+    {
+      "doc_id": 8799,
+      "frequency": 4
+    }
+  ],
+  "mergelists2": [
+    {
+      "doc_id": 8799,
+      "frequency": 2
+    }
+  ],
+  "mergelists3": [
+    {
+      "doc_id": 8799,
+      "frequency": 2
+    }
+  ],
+  "wrong": [
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "50": [
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ],
+  "pass": [
+    {
+      "doc_id": 8799,
+      "frequency": 1
+    }
+  ]
+}
