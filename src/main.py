@@ -98,7 +98,6 @@ def save_doc_id_url_mapping(doc_id_url_map):
     except Exception as e:
         print(f"Error writing doc_id_to_url.json: {e}")
 
-
 # Function to load the document ID to URL mapping
 def load_doc_id_url_mapping():
     # Check if the mapping file exists
@@ -116,11 +115,8 @@ def load_doc_id_url_mapping():
         save_doc_id_url_mapping(empty_mapping)
         return empty_mapping
 
-def process_query_boolean_with_tf(query, inverted_index, query_type="AND"):
-    """
-    Perform Boolean retrieval and rank results based on term frequency (TF).
-    """
-    print(f"\nProcessing Query: {query} (Type: {query_type})")
+def process_query_boolean_with_tf(query, inverted_index):
+    print(f"\nProcessing Query: {query}")
     query_tokens = tokenize(query)
     print(f"Query tokens: {query_tokens}")
 
@@ -144,15 +140,8 @@ def process_query_boolean_with_tf(query, inverted_index, query_type="AND"):
             print(f"No postings found for token '{token}'")
 
     # Combine posting lists based on the query type
-    if query_type == "AND":
-        if posting_lists:
-            result_docs = set.intersection(*posting_lists)  # Logical AND
-        else:
-            result_docs = set()
-    elif query_type == "OR":
-        result_docs = set.union(*posting_lists) if posting_lists else set()  # Logical OR
-    else:
-        raise ValueError("Unsupported query type. Use 'AND' or 'OR'.")
+    if posting_lists:
+        result_docs = set.intersection(*posting_lists)  # Logical AND
 
     # Filter and rank documents by term frequency score
     ranked_results = sorted(
@@ -195,31 +184,8 @@ def main():
     print("Inverted index loaded.")
 
     # Load or generate document URLs
-    if os.path.exists('doc_id_to_url.json'):
-        with open('doc_id_to_url.json', 'r') as f:
-            doc_urls = {int(k): v for k, v in json.load(f).items()}  # Ensure keys are integers
-    else:
-        print("No document URL mapping found. Using placeholder URLs.")
-        doc_urls = {doc_id: f"Document {doc_id}" for doc_id in range(1, 1001)}
-
-    # Define test queries
-    test_queries = [
-        "cristina lopes",
-        "machine learning",
-        "ACM",
-        "master of software engineering"
-    ]
-
-    # Test predefined queries with Boolean Retrieval (ranked by term frequency)
-    print("\nTesting predefined queries with Boolean Retrieval (TF Ranking)...")
-    for query in test_queries:
-        print(f"\n--- Query: {query} ---")
-        ranked_results = process_query_boolean_with_tf(query, inverted_index, query_type="AND")
-
-        # Display top results
-        print("\nTop results:")
-        for rank, (doc_id, score) in enumerate(ranked_results[:5], start=1):
-            print(f"{rank}. {doc_urls.get(doc_id, f'Document {doc_id}')} (TF Score: {score})")
+    with open('doc_id_to_url.json', 'r') as f:
+        doc_urls = {int(k): v for k, v in json.load(f).items()}  # Ensure keys are integers
 
     # Manual query input
     print("\n--- Manual Query Input ---")
@@ -229,14 +195,9 @@ def main():
             print("Exiting manual query mode.")
             break
 
-        query_type = input("Enter query type (AND/OR): ").strip().upper()
-        if query_type not in {"AND", "OR"}:
-            print("Invalid query type. Defaulting to 'AND'.")
-            query_type = "AND"
-
         # Process the manual query
-        print(f"\nProcessing query: '{query}' with type '{query_type}'...")
-        ranked_results = process_query_boolean_with_tf(query, inverted_index, query_type=query_type)
+        print(f"\nProcessing query: '{query}'...")
+        ranked_results = process_query_boolean_with_tf(query, inverted_index)
 
         # Display results
         if ranked_results:
