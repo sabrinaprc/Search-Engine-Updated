@@ -126,7 +126,6 @@ def process_query(query, inverted_index):
     for token in query_tokens:
         if token in inverted_index:
             postings = inverted_index[token]
-            print(f"Posting list for '{token}': {postings}")
             posting_lists.append(set(entry['doc_id'] for entry in postings))
         else:
             print(f"No postings found for token '{token}'")
@@ -134,7 +133,7 @@ def process_query(query, inverted_index):
     # Perform intersection to simulate a Boolean AND query
     if posting_lists:
         result_docs = set.intersection(*posting_lists)
-        print(f"Documents matching all terms: {sorted(result_docs)}")
+        # print(f"Documents matching all terms: {sorted(result_docs)}")
         return sorted(result_docs)
     else:
         print("No documents matched the query.")
@@ -158,7 +157,6 @@ def calculate_tf_idf(query, index, total_docs):
     
     # Sort documents by score in descending order
     return sorted(doc_scores.items(), key=lambda x: x[1], reverse=True)
-
 
     
 # Function to write report data to a file
@@ -206,7 +204,10 @@ def main():
 
     # Define test queries
     test_queries = [
+        "cristina lopes",
         "machine learning",
+        "ACM",
+        "master of software engineering"
     ]
     
     # Test predefined queries
@@ -220,12 +221,12 @@ def main():
         results = calculate_tf_idf(query, inverted_index, total_docs)  # Step 2: Calculate TF-IDF
 
         # Display results
-        print("\nTF-IDF Scores for Documents:")
-        for rank, (doc_id, score) in enumerate(results, start=1):
-            print(f"{rank}. Document ID: {doc_id}, URL: {doc_urls.get(doc_id, f'Document {doc_id}')}, Score: {score:.4f}")
+        # print("\nTF-IDF Scores for Documents:")
+        # for rank, (doc_id, score) in enumerate(results, start=1):
+        #     print(f"{rank}. Document ID: {doc_id}, URL: {doc_urls.get(doc_id, f'Document {doc_id}')}, Score: {score:.4f}")
         
         print(f"\nTotal documents: {total_docs}")
-        print("\nTop 5 results:")
+        print(f"\nTop 5 results for {query}:")
         for rank, (doc_id, score) in enumerate(results[:5], start=1):
             print(f"{rank}. {doc_urls.get(doc_id, f'Document {doc_id}')} (Score: {score:.4f})") 
     
