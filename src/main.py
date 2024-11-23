@@ -116,47 +116,53 @@ def load_doc_id_url_mapping():
         save_doc_id_url_mapping(empty_mapping)
         return empty_mapping
 
-def process_query(query, inverted_index):
-    print(f"\nTesting Query: {query}")
+def process_query_boolean_with_tf(query, inverted_index, query_type="AND"):
+    """
+    Perform Boolean retrieval and rank results based on term frequency (TF).
+    """
+    print(f"\nProcessing Query: {query} (Type: {query_type})")
     query_tokens = tokenize(query)
     print(f"Query tokens: {query_tokens}")
 
     # Retrieve posting lists for each token
     posting_lists = []
+    doc_scores = {}  # Dictionary to store term frequency scores for documents
     for token in query_tokens:
         if token in inverted_index:
             postings = inverted_index[token]
-            posting_lists.append(set(entry['doc_id'] for entry in postings))
+            doc_ids = set(entry['doc_id'] for entry in postings)
+            posting_lists.append(doc_ids)
+
+            # Update scores based on term frequency
+            for entry in postings:
+                doc_id = entry['doc_id']
+                frequency = entry['frequency']
+                if doc_id not in doc_scores:
+                    doc_scores[doc_id] = 0
+                doc_scores[doc_id] += frequency
         else:
             print(f"No postings found for token '{token}'")
 
-    # Perform intersection to simulate a Boolean AND query
-    if posting_lists:
-        result_docs = set.intersection(*posting_lists)
-        # print(f"Documents matching all terms: {sorted(result_docs)}")
-        return sorted(result_docs)
+    # Combine posting lists based on the query type
+    if query_type == "AND":
+        if posting_lists:
+            result_docs = set.intersection(*posting_lists)  # Logical AND
+        else:
+            result_docs = set()
+    elif query_type == "OR":
+        result_docs = set.union(*posting_lists) if posting_lists else set()  # Logical OR
     else:
-        print("No documents matched the query.")
-        return []
+        raise ValueError("Unsupported query type. Use 'AND' or 'OR'.")
 
-def calculate_tf_idf(query, index, total_docs):
-    tokens = tokenize(query)
-    doc_scores = {}
-    
-    for token in tokens:
-        if token in index:
-            idf = math.log(total_docs / (1 + len(index[token])))
-            for entry in index[token]:
-                tf = entry['frequency']
-                score = tf * idf
-                doc_id = entry['doc_id']
-                
-                if doc_id not in doc_scores:
-                    doc_scores[doc_id] = 0
-                doc_scores[doc_id] += score
-    
-    # Sort documents by score in descending order
-    return sorted(doc_scores.items(), key=lambda x: x[1], reverse=True)
+    # Filter and rank documents by term frequency score
+    ranked_results = sorted(
+        [(doc_id, doc_scores[doc_id]) for doc_id in result_docs],
+        key=lambda x: x[1],
+        reverse=True
+    )
+
+    print(f"Ranked results: {ranked_results}")
+    return ranked_results
 
     
 # Function to write report data to a file
@@ -186,21 +192,16 @@ def load_full_index():
 def main():
     # Load the full inverted index from partial files
     print("Loading inverted index...")
-    inverted_index = load_full_index()  # Function to load all partial indices
+    inverted_index = load_full_index()
     print("Inverted index loaded.")
 
-    # Assume document URLs are already mapped and saved
-    # Create a mock mapping if you don't have URLs stored
-    # Replace 'doc_id_to_url.json' with your actual file, if available
+    # Load or generate document URLs
     if os.path.exists('doc_id_to_url.json'):
         with open('doc_id_to_url.json', 'r') as f:
-            doc_urls = json.load(f)
+            doc_urls = {int(k): v for k, v in json.load(f).items()}  # Ensure keys are integers
     else:
         print("No document URL mapping found. Using placeholder URLs.")
-        doc_urls = {doc_id: f"Document {doc_id}" for doc_id in range(1, 1001)}  # Example for 1000 docs
-
-    # Total number of documents (adjust to match the indexed dataset)
-    total_docs = len(doc_urls)
+        doc_urls = {doc_id: f"Document {doc_id}" for doc_id in range(1, 1001)}
 
     # Define test queries
     test_queries = [
@@ -209,27 +210,18 @@ def main():
         "ACM",
         "master of software engineering"
     ]
-    
-    # Test predefined queries
-    print("\nTesting predefined queries...")
 
+    # Test predefined queries with Boolean Retrieval (ranked by term frequency)
+    print("\nTesting predefined queries with Boolean Retrieval (TF Ranking)...")
     for query in test_queries:
-        print("\nProcessing query...")
-        posting_lists = process_query(query, inverted_index)  # Step 1: Process the query
+        print(f"\n--- Query: {query} ---")
+        ranked_results = process_query_boolean_with_tf(query, inverted_index, query_type="AND")
 
-        print("\nCalculating TF-IDF...")
-        results = calculate_tf_idf(query, inverted_index, total_docs)  # Step 2: Calculate TF-IDF
+        # Display top results
+        print("\nTop results:")
+        for rank, (doc_id, score) in enumerate(ranked_results[:5], start=1):
+            print(f"{rank}. {doc_urls.get(doc_id, f'Document {doc_id}')} (TF Score: {score})")
 
-        # Display results
-        # print("\nTF-IDF Scores for Documents:")
-        # for rank, (doc_id, score) in enumerate(results, start=1):
-        #     print(f"{rank}. Document ID: {doc_id}, URL: {doc_urls.get(doc_id, f'Document {doc_id}')}, Score: {score:.4f}")
-        
-        print(f"\nTotal documents: {total_docs}")
-        print(f"\nTop 5 results for {query}:")
-        for rank, (doc_id, score) in enumerate(results[:5], start=1):
-            print(f"{rank}. {doc_urls.get(doc_id, f'Document {doc_id}')} (Score: {score:.4f})") 
-    
 
 if __name__ == "__main__":
     main()
