@@ -4,7 +4,6 @@ from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 import nltk
-import math
 
 # Ensure nltk resources are available
 nltk.download('stopwords')
@@ -89,6 +88,34 @@ def calculate_index_size():
             total_size += os.path.getsize(filename)
     return total_size / 1024  # Convert bytes to KB
 
+# Function to map document IDs to URLs
+def save_doc_id_url_mapping(doc_id_url_map):
+    try:
+        with open("doc_id_to_url.json", "w") as f:
+            json.dump(doc_id_url_map, f, indent=2)
+        print("Document ID to URL mapping saved to doc_id_to_url.json.")
+    except Exception as e:
+        print(f"Error writing doc_id_to_url.json: {e}")
+
+
+# Function to load the document ID to URL mapping
+def load_doc_id_url_mapping():
+    # Check if the mapping file exists
+    if os.path.exists("doc_id_to_url.json"):
+        try:
+            with open("doc_id_to_url.json", "r") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"Error reading doc_id_to_url.json: {e}")
+            return {}
+    else:
+        print("doc_id_to_url.json does not exist. Creating a new file...")
+        # Create an empty mapping and save it to disk
+        empty_mapping = {}
+        save_doc_id_url_mapping(empty_mapping)
+        return empty_mapping
+
+
 # Function to write report data to a file
 def write_report(doc_count, unique_token_count, index_size_kb):
     report = {
@@ -100,107 +127,94 @@ def write_report(doc_count, unique_token_count, index_size_kb):
         json.dump(report, f, indent=2)
     print("Report saved to index_report.json")
 
-def load_full_index():
-    full_index = {}
-    for filename in os.listdir():
-        if filename.startswith('partial_index_') and filename.endswith('.json'):
-            with open(filename, 'r') as f:
-                partial_index = json.load(f)
-                for token, postings in partial_index.items():
-                    if token not in full_index:
-                        full_index[token] = postings
-                    else:
-                        full_index[token].extend(postings)
-    return full_index
-
-
-def process_query(query, index):
-    tokens = tokenize(query)
-    if not tokens:
-        return []
-    
-    doc_sets = []
-    for token in tokens:
-        if token in index:
-            doc_sets.append(set(entry['doc_id'] for entry in index[token]))
-        else:
-            return []  # If any token is not in index, return empty result
-    
-    # Perform intersection to handle AND queries
-    result_docs = set.intersection(*doc_sets) if doc_sets else set()
-    return sorted(result_docs)
-
-def calculate_tf_idf(query, index, total_docs):
-    tokens = tokenize(query)
-    doc_scores = {}
-    
-    for token in tokens:
-        if token in index:
-            idf = math.log(total_docs / (1 + len(index[token])))
-            for entry in index[token]:
-                tf = entry['frequency']
-                score = tf * idf
-                doc_id = entry['doc_id']
-                if doc_id not in doc_scores:
-                    doc_scores[doc_id] = 0
-                doc_scores[doc_id] += score
-    
-    # Sort documents by score in descending order
-    return sorted(doc_scores.items(), key=lambda x: x[1], reverse=True)
-
-def search_interface(index, total_docs, doc_urls):
-    while True:
-        query = input("Enter your query (or type 'exit' to quit): ")
-        if query.lower() == 'exit':
-            break
-        
-        results = calculate_tf_idf(query, index, total_docs)
-        print("\nTop 5 results:")
-        for rank, (doc_id, score) in enumerate(results[:5], start=1):
-            print(f"{rank}. {doc_urls[doc_id]} (Score: {score:.4f})")
-
 
 def main():
-    # Load the full inverted index from partial files
-    print("Loading inverted index...")
-    inverted_index = load_full_index()  # Function to load all partial indices
-    print("Inverted index loaded.")
+    # Define paths for ANALYST and DEV folders
+    analyst_folder = 'assets/ANALYST'
+    dev_folder = 'assets/DEV'
+    
+    print("Loading data from folders...")
+    # Load data from both folders
+    analyst_pages = load_data(analyst_folder)
+    dev_pages = load_data(dev_folder)
+    all_pages = analyst_pages + dev_pages  # Combine both lists for batch processing
+    print(f"Loaded {len(all_pages)} documents in total.")
 
-    # Assume document URLs are already mapped and saved
-    # Create a mock mapping if you don't have URLs stored
-    # Replace 'doc_id_to_url.json' with your actual file, if available
-    if os.path.exists('doc_id_to_url.json'):
-        with open('doc_id_to_url.json', 'r') as f:
-            doc_urls = json.load(f)
+    # Load or initialize document ID-to-URL mapping
+    print("Loading document ID to URL mapping...")
+    doc_id_url_map = load_doc_id_url_mapping()
+    print(f"Loaded {len(doc_id_url_map)} existing mappings.")
+
+    # Load progress if it exists
+    print("Checking for existing progress...")
+    progress = load_progress()
+    last_doc_id = progress["doc_id"]
+    batch_number = progress["batch_number"]
+    unique_tokens_set = progress["unique_tokens"]
+    print(f"Last processed document ID: {last_doc_id}, Batch number: {batch_number}, Unique tokens: {len(unique_tokens_set)}")
+
+    # Initialize counters and data structures
+    batch_size = 100  # Define batch size
+    inverted_index = {}  # Initialize the in-memory index
+    doc_id = last_doc_id  # Start from the last processed doc_id
+
+    # Resume processing from the next unprocessed batch
+    remaining_pages = all_pages[doc_id:]
+    if remaining_pages:
+        print(f"Starting to process {len(remaining_pages)} remaining documents...")
     else:
-        print("No document URL mapping found. Using placeholder URLs.")
-        doc_urls = {doc_id: f"Document {doc_id}" for doc_id in range(1, 1001)}  # Example for 1000 docs
+        print("No new documents to process. Indexing is up-to-date.")
 
-    # Total number of documents (adjust to match the indexed dataset)
-    total_docs = len(doc_urls)
+    while remaining_pages:
+        # Get the next batch of documents
+        batch = remaining_pages[:batch_size]
+        remaining_pages = remaining_pages[batch_size:]  # Remove processed batch from list
+        print(f"Processing batch {batch_number}...")
 
-    # Define test queries
-    test_queries = [
-        "cristina lopes",
-        "machine learning",
-        "ACM",
-        "master of software engineering"
-    ]
+        # Process each document in the batch
+        for page in batch:
+            doc_id += 1
+            url = page.get("url", f"Document {doc_id}")  # Default to "Document {doc_id}" if no URL
+            doc_id_url_map[str(doc_id)] = url  # Save the mapping
+            print(f"Processing Document ID {doc_id}, URL: {url}")
 
-    # Test predefined queries and output results
-    print("\nTesting predefined queries...")
-    for query in test_queries:
-        print(f"\nQuery: {query}")
-        results = calculate_tf_idf(query, inverted_index, total_docs)
-        top_5_results = results[:5]
-        
-        print("Top 5 results:")
-        for rank, (doc_id, score) in enumerate(top_5_results, start=1):
-            print(f"{rank}. {doc_urls.get(doc_id, f'Document {doc_id}')} (Score: {score:.4f})")
+            if 'content' in page:
+                # Tokenize and index the content
+                tokens = parse_and_tokenize(page['content'])
+                add_to_index(inverted_index, tokens, doc_id, unique_tokens_set)
+                print(f"Indexed {len(tokens)} tokens for Document ID {doc_id}.")
+            else:
+                print(f"Warning: Content not found for Document ID {doc_id}.")
 
-    # Launch interactive search interface for custom queries
-    print("\nEntering search interface...")
-    search_interface(inverted_index, total_docs, doc_urls)
+        # Write the current batch's index to disk
+        filename = f'partial_index_{batch_number}.json'
+        print(f"Writing partial index for batch {batch_number} to {filename}...")
+        sort_and_write_to_disk(inverted_index, filename)
+        inverted_index.clear()  # Clear the index from memory for the next batch
+        print(f"Batch {batch_number} processing complete.")
+
+        # Save progress and document ID to URL mapping after each batch
+        batch_number += 1
+        save_progress(doc_id, batch_number, unique_tokens_set)
+        save_doc_id_url_mapping(doc_id_url_map)
+
+    # Calculate report metrics
+    doc_count = doc_id  # Total number of indexed documents
+    unique_token_count = len(unique_tokens_set)  # Total number of unique tokens
+    index_size_kb = calculate_index_size()  # Total size of index files in KB
+
+    # Write the report to a file
+    print("Generating final report...")
+    write_report(doc_count, unique_token_count, index_size_kb)
+    print("Report saved.")
+
+    # Final summary of the process
+    print("Indexing complete.")
+    print(f"Total indexed documents: {doc_count}")
+    print(f"Total unique tokens: {unique_token_count}")
+    print(f"Total index size: {index_size_kb:.2f} KB")
+    print(f"Document ID to URL mappings saved to doc_id_to_url.json.")
+
 
 if __name__ == "__main__":
     main()
