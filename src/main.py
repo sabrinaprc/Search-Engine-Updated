@@ -161,7 +161,6 @@ def process_query_boolean_with_tf(query, inverted_index, query_type="AND"):
         reverse=True
     )
 
-    print(f"Ranked results: {ranked_results}")
     return ranked_results
 
     
@@ -221,6 +220,32 @@ def main():
         print("\nTop results:")
         for rank, (doc_id, score) in enumerate(ranked_results[:5], start=1):
             print(f"{rank}. {doc_urls.get(doc_id, f'Document {doc_id}')} (TF Score: {score})")
+
+    # Manual query input
+    print("\n--- Manual Query Input ---")
+    while True:
+        query = input("\nEnter your query (or type 'exit' to quit): ").strip()
+        if query.lower() == "exit":
+            print("Exiting manual query mode.")
+            break
+
+        query_type = input("Enter query type (AND/OR): ").strip().upper()
+        if query_type not in {"AND", "OR"}:
+            print("Invalid query type. Defaulting to 'AND'.")
+            query_type = "AND"
+
+        # Process the manual query
+        print(f"\nProcessing query: '{query}' with type '{query_type}'...")
+        ranked_results = process_query_boolean_with_tf(query, inverted_index, query_type=query_type)
+
+        # Display results
+        if ranked_results:
+            print("\nTop results:")
+            for rank, (doc_id, score) in enumerate(ranked_results[:5], start=1):
+                print(f"{rank}. {doc_urls.get(doc_id, f'Document {doc_id}')} (TF Score: {score})")
+        else:
+            print("No matching documents found.")
+
 
 
 if __name__ == "__main__":
