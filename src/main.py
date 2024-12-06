@@ -5,6 +5,7 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 import nltk
 import math
+from collections import defaultdict
 
 # Ensure nltk resources are available
 nltk.download('stopwords')
@@ -178,16 +179,15 @@ def load_full_index():
                         full_index[token].extend(postings)
     return full_index
 
-def get_words_for_doc(doc_id, inverted_index):
-    total_words = 0
+def get_wordcount_dict(inverted_index):
+    doc_index = defaultdict(int)
     for term, postings in inverted_index.items():
         for entry in postings:
-            if entry['doc_id'] == doc_id:
-                total_words += entry['frequency']
+            doc_index[entry['doc_id']] += entry['frequency']
+    
+    return doc_index
 
-    return total_words
-
-def calculate_tf_idf(query, inverted_index, total_docs):
+def calculate_tf_idf(query, inverted_index, total_docs, word_count_dict):
     query_tokens = tokenize(query)
     print(f"Query tokens: {query_tokens}")
     doc_scores = {}
@@ -202,7 +202,7 @@ def calculate_tf_idf(query, inverted_index, total_docs):
             # Process all documents where the term appears
             for entry in inverted_index[token]:
                 doc_id = entry['doc_id']
-                tf = entry['frequency'] / get_total_words_in_doc(doc_id, inverted_index)  # Calculate TF
+                tf = entry['frequency'] / word_count_dict.get(doc_id) # Calculate TF
 
                 # Calculate TF-IDF
                 tf_idf = tf * idf
@@ -227,6 +227,8 @@ def main():
     print("Loading inverted index...")
     inverted_index = load_full_index()
     print("Inverted index loaded.")
+    wordcount_index = get_wordcount_dict(inverted_index)
+    print("wordcount index loaded")
 
     # Load or generate document URLs
     with open('doc_id_to_url.json', 'r') as f:
@@ -244,7 +246,7 @@ def main():
 
         # Process the manual query
         print(f"\nProcessing query: '{query}'...")
-        ranked_results = calculate_tf_idf(query, inverted_index, total_docs)
+        ranked_results = calculate_tf_idf(query, inverted_index, total_docs, wordcount_index)
 
         # Display results
         if ranked_results:
