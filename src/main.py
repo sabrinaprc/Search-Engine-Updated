@@ -98,6 +98,7 @@ def save_doc_id_url_mapping(doc_id_url_map):
     except Exception as e:
         print(f"Error writing doc_id_to_url.json: {e}")
 
+
 # Function to load the document ID to URL mapping
 def load_doc_id_url_mapping():
     # Check if the mapping file exists
@@ -115,42 +116,42 @@ def load_doc_id_url_mapping():
         save_doc_id_url_mapping(empty_mapping)
         return empty_mapping
 
-def process_query_boolean_with_tf(query, inverted_index):
-    print(f"\nProcessing Query: {query}")
-    query_tokens = tokenize(query)
-    print(f"Query tokens: {query_tokens}")
+# def process_query_boolean_with_tf(query, inverted_index):
+#     print(f"\nProcessing Query: {query}")
+#     query_tokens = tokenize(query)
+#     print(f"Query tokens: {query_tokens}")
 
-    # Retrieve posting lists for each token
-    posting_lists = []
-    doc_scores = {}  # Dictionary to store term frequency scores for documents
-    for token in query_tokens:
-        if token in inverted_index:
-            postings = inverted_index[token]
-            doc_ids = set(entry['doc_id'] for entry in postings)
-            posting_lists.append(doc_ids)
+#     # Retrieve posting lists for each token
+#     posting_lists = []
+#     doc_scores = {}  # Dictionary to store term frequency scores for documents
+#     for token in query_tokens:
+#         if token in inverted_index:
+#             postings = inverted_index[token]
+#             doc_ids = set(entry['doc_id'] for entry in postings)
+#             posting_lists.append(doc_ids)
 
-            # Update scores based on term frequency
-            for entry in postings:
-                doc_id = entry['doc_id']
-                frequency = entry['frequency']
-                if doc_id not in doc_scores:
-                    doc_scores[doc_id] = 0
-                doc_scores[doc_id] += frequency
-        else:
-            print(f"No postings found for token '{token}'")
+#             # Update scores based on term frequency
+#             for entry in postings:
+#                 doc_id = entry['doc_id']
+#                 frequency = entry['frequency']
+#                 if doc_id not in doc_scores:
+#                     doc_scores[doc_id] = 0
+#                 doc_scores[doc_id] += frequency
+#         else:
+#             print(f"No postings found for token '{token}'")
 
-    # Combine posting lists based on the query type
-    if posting_lists:
-        result_docs = set.intersection(*posting_lists)  # Logical AND
+#     # Combine posting lists based on the query type
+#     if posting_lists:
+#         result_docs = set.intersection(*posting_lists)  # Logical AND
 
-    # Filter and rank documents by term frequency score
-    ranked_results = sorted(
-        [(doc_id, doc_scores[doc_id]) for doc_id in result_docs],
-        key=lambda x: x[1],
-        reverse=True
-    )
+#     # Filter and rank documents by term frequency score
+#     ranked_results = sorted(
+#         [(doc_id, doc_scores[doc_id]) for doc_id in result_docs],
+#         key=lambda x: x[1],
+#         reverse=True
+#     )
 
-    return ranked_results
+#     return ranked_results
 
     
 # Function to write report data to a file
@@ -177,6 +178,50 @@ def load_full_index():
                         full_index[token].extend(postings)
     return full_index
 
+def get_words_for_doc(doc_id, inverted_index):
+    total_words = 0
+    for term, postings in inverted_index.items():
+        for entry in postings:
+            if entry['doc_id'] == doc_id:
+                total_words += entry['frequency']
+
+    return total_words
+
+def calculate_tf_idf(query, inverted_index, total_docs):
+    query_tokens = tokenize(query)
+    print(f"Query tokens: {query_tokens}")
+    doc_scores = {}
+
+    for token in query_tokens:
+        if token in inverted_index:
+            # Calculate IDF for the token
+            df = len(inverted_index[token])  # Number of documents containing the term
+            idf = math.log10(total_docs / (1 + df))  # Add 1 to avoid division by zero
+            print(f"Token: '{token}', IDF: {idf:.4f}")
+
+            # Process all documents where the term appears
+            for entry in inverted_index[token]:
+                doc_id = entry['doc_id']
+                tf = entry['frequency'] / get_total_words_in_doc(doc_id, inverted_index)  # Calculate TF
+
+                # Calculate TF-IDF
+                tf_idf = tf * idf
+
+                # Add to the document's score
+                if doc_id not in doc_scores:
+                    doc_scores[doc_id] = 0
+                doc_scores[doc_id] += tf_idf
+
+                print(f"  Doc ID: {doc_id}, TF: {tf:.4f}, TF-IDF: {tf_idf:.4f}")
+        else:
+            print(f"Token '{token}' not found in the inverted index.")
+
+    # Sort documents by TF-IDF scores in descending order
+    sorted_scores = sorted(doc_scores.items(), key=lambda x: x[1], reverse=True)
+
+    return sorted_scores
+
+
 def main():
     # Load the full inverted index from partial files
     print("Loading inverted index...")
@@ -186,6 +231,8 @@ def main():
     # Load or generate document URLs
     with open('doc_id_to_url.json', 'r') as f:
         doc_urls = {int(k): v for k, v in json.load(f).items()}  # Ensure keys are integers
+
+    total_docs = len(doc_urls)
 
     # Manual query input
     print("\n--- Manual Query Input ---")
@@ -197,7 +244,7 @@ def main():
 
         # Process the manual query
         print(f"\nProcessing query: '{query}'...")
-        ranked_results = process_query_boolean_with_tf(query, inverted_index)
+        ranked_results = calculate_tf_idf(query, inverted_index, total_docs)
 
         # Display results
         if ranked_results:
