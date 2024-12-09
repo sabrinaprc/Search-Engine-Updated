@@ -222,7 +222,9 @@ def calculate_tf_idf(query, inverted_index, total_docs, word_count_dict):
             df = len(inverted_index[token])  # Number of documents containing the term
             idf = math.log10(total_docs / (1 + df))  # Add 1 to avoid division by zero
             print(f"Token: '{token}', IDF: {idf:.4f}")
-
+            
+            MIN_TF_IDF_THRESHOLD = 0.01
+            
             # Process all documents where the term appears
             for entry in inverted_index[token]:
                 doc_id = entry['doc_id']
@@ -230,6 +232,9 @@ def calculate_tf_idf(query, inverted_index, total_docs, word_count_dict):
 
                 # Calculate TF-IDF
                 tf_idf = tf * idf
+                
+                if tf_idf < MIN_TF_IDF_THRESHOLD:
+                    continue
 
                 # Add to the document's score
                 if doc_id not in doc_scores:
