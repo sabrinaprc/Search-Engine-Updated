@@ -6,6 +6,9 @@ from nltk.corpus import stopwords
 import nltk
 import math
 from collections import defaultdict
+from bs4 import BeautifulSoup
+import time
+
 
 # Ensure nltk resources are available
 nltk.download('stopwords')
@@ -30,14 +33,35 @@ def tokenize(text):
     tokens = word_tokenize(text)
     return [ps.stem(token.lower()) for token in tokens if token.isalnum() and token.lower() not in stop_words]
 
-# Parse content and tokenize it
+# Parse content and tokenize it, assigning weights to important tokens
 def parse_and_tokenize(content):
-    tokens = tokenize(content)
-    return tokens
+    soup = BeautifulSoup(content, 'html.parser')
+
+    tokens_with_weights = []
+
+    # Extract tokens from the title and assign a higher weight
+    title = soup.title.string if soup.title else ""
+    if title:
+        tokens_with_weights.extend((token, 3) for token in tokenize(title))  # Weight = 3
+
+    # Extract tokens from headings and assign a medium weight
+    for heading_tag in ['h1', 'h2', 'h3']:
+        for heading in soup.find_all(heading_tag):
+            tokens_with_weights.extend((token, 2) for token in tokenize(heading.get_text()))  # Weight = 2
+
+    # Extract tokens from bold text and assign a lower weight
+    for bold in soup.find_all(['b', 'strong']):
+        tokens_with_weights.extend((token, 1.5) for token in tokenize(bold.get_text()))  # Weight = 1.5
+
+    # Extract tokens from the rest of the content with normal weight
+    body = soup.get_text()
+    tokens_with_weights.extend((token, 1) for token in tokenize(body))
+
+    return tokens_with_weights
 
 # Helper function to add tokens to the inverted index and track unique tokens
-def add_to_index(inverted_index, tokens, doc_id, unique_tokens_set):
-    for token in tokens:
+def add_to_index(inverted_index, tokens_with_weights, doc_id, unique_tokens_set):
+    for token, weight in tokens_with_weights:
         if token not in inverted_index:
             inverted_index[token] = []
 
@@ -46,13 +70,13 @@ def add_to_index(inverted_index, tokens, doc_id, unique_tokens_set):
             unique_tokens_set.add(token)
             print(f"Unique token count: {len(unique_tokens_set)}")  # Print updated count
 
-        # Check if doc_id already exists for this token, if so, update frequency
+        # Check if doc_id already exists for this token, if so, update frequency with weight
         for entry in inverted_index[token]:
             if entry["doc_id"] == doc_id:
-                entry["frequency"] += 1
+                entry["frequency"] += weight
                 break
         else:
-            inverted_index[token].append({"doc_id": doc_id, "frequency": 1})
+            inverted_index[token].append({"doc_id": doc_id, "frequency": weight})
 
 # Function to write the partial index to disk and clear the in-memory index
 def sort_and_write_to_disk(index, filename):
