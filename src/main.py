@@ -2,7 +2,6 @@ import os
 import json
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
 import nltk
 import math
 from collections import defaultdict
@@ -11,11 +10,9 @@ import time
 
 
 # Ensure nltk resources are available
-nltk.download('stopwords')
 nltk.download('punkt')
 
 ps = PorterStemmer()
-stop_words = set(stopwords.words('english'))
 
 # Function to load all JSON files in a directory into a list
 def load_data(folder_path):
@@ -31,7 +28,7 @@ def load_data(folder_path):
 # Tokenize and stem text, removing stop words
 def tokenize(text):
     tokens = word_tokenize(text)
-    return [ps.stem(token.lower()) for token in tokens if token.isalnum() and token.lower() not in stop_words]
+    return [ps.stem(token.lower()) for token in tokens if token.isalnum() and token.lower()]
 
 # Parse content and tokenize it, assigning weights to important tokens
 def parse_and_tokenize(content):
