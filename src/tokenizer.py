@@ -6,16 +6,6 @@ from bs4 import BeautifulSoup
 
 ps = PorterStemmer()
 
-# Function to load all JSON files in a directory into a list
-def load_data(folder_path):
-    pages = []
-    for root, _, files in os.walk(folder_path):
-        for file in files:
-            if file.endswith('.json'):
-                with open(os.path.join(root, file), 'r', encoding='utf-8') as f:
-                    page = json.load(f)
-                    pages.append(page)
-    return pages
 
 # Tokenize and stem text, removing stop words
 def tokenize(text):
