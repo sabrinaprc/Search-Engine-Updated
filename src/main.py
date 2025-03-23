@@ -1,4 +1,5 @@
 import nltk
+from nltk.stem import PorterStemmer
 from tfidf import calculate_tf_idf, get_wordcount_dict
 from file_utils import load_doc_id_url_mapping
 from tokenizer import tokenize

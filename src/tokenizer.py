@@ -1,3 +1,5 @@
+import os
+import json
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
 from bs4 import BeautifulSoup
