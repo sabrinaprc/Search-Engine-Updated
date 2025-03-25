@@ -1,4 +1,5 @@
 Project Overview
+
 This project is the final milestone in the CS121 Search Engine assignment. The goal was to build a fully functioning search engine that supports efficient and effective query retrieval. We focused on improving both ranking performance and runtime efficiency, implementing various strategies to optimize the engine's behavior under realistic conditions.
 
 The assignment builds upon earlier work by:
