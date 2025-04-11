@@ -8,7 +8,6 @@ nltk.download('punkt')
 
 ps = PorterStemmer()
 
-
 # Tokenize and stem text, removing stop words
 def tokenize(text):
     tokens = word_tokenize(text)

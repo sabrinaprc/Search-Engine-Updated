@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  background-color: white;
+  color: black;              /* make text white */
+  font-family: 'Inter', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;             /* full height */
+}
+
+.app {
+  text-align: center;
+  max-width: 600px;
+  width: 100%;
+}
+
+.search-box {
+  margin-bottom: 20px;
+}
+
+input {
+  background-color: lightgray;
+  color: black;
+  padding: 10px;
+  width: 300px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
+
+input::placeholder {
+  color: white;
+}
+
+button {
+  padding: 10px 20px;
+  margin-left: 10px;
+  font-size: 16px;
+  background-color: #1e90ff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.results {
+  text-align: left;
+  margin-top: 20px;
+}
+
+.result {
+  margin-bottom: 15px;
+}
