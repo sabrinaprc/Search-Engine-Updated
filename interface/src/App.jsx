@@ -7,10 +7,13 @@ function App() {
 
   const handleSearch = async () => {
     if (!query.trim()) return;
-
+  
+    console.log("Searching for:", query);  // ✅ log to confirm trigger
+  
     try {
-      const response = await fetch(`http://localhost:5000/search?q=${encodeURIComponent(query)}`);
+      const response = await fetch(`http://localhost:5050/search?q=${encodeURIComponent(query)}`);
       const data = await response.json();
+      console.log("Data received from backend:", data);  // ✅ log to confirm response
       setResults(data.results);
     } catch (error) {
       console.error("Search error:", error);
